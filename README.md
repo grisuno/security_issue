@@ -1,13 +1,5 @@
-**ISSUE: Your script is not downloading issues, only alerts. Also, no summary file is generated at the end.**
+# Security_**ISSUE**
 
-You used a script (`security_issue2.sh`) that seems to be an earlier version that either:
-- Skips issue download due to a logic bug (e.g., it only processes issues if a certain condition is met, but it fails to count them).
-- Does not write issue files because of a missing `while` loop or incorrect pagination.
-- Only processed 2 repos because of `set -e` (but you already fixed that in the latest version?).
-
-However, your output shows that `LazyOwn` has an `issue_84.md` file, so issues *are* being written for that repo, but for all others the count shows `0 issues`. This indicates that your script might be counting issues from the API response but not writing them, or the API is returning empty because of token/permission issues (some repos may be empty of issues).
-
-I will provide a **fully functional, English version** that:
 
 - Processes **all repositories** (including those with no issues/alerts).
 - Downloads **all issues** (with pagination) and writes them as `issue_<number>.md`.
