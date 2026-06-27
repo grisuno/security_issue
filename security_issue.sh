@@ -1,28 +1,34 @@
 #!/bin/bash
-# =============================================================================
-# Script: github_security_export.sh
-# Description: Export all issues, Dependabot alerts, and Code Scanning alerts
-#              from all repositories of a GitHub user into Markdown files.
-# Usage: ./github_security_export.sh [username]
-#        If no username is provided, uses the authenticated user.
-# Dependencies: gh (GitHub CLI), jq
-# =============================================================================
+# ============================================================================
+# Script: github_full_export_and_push.sh
+# Descripción: Exporta issues, Dependabot y CodeScan de TODOS los repositorios
+#              de un usuario de GitHub, y sube el resultado a un repositorio.
+# Uso: ./github_full_export_and_push.sh [usuario]
+#      Si no se proporciona usuario, usa el autenticado.
+# Requisitos: gh, jq, git
+# ============================================================================
 
 set -uo pipefail
 
-# --- Configuration ---
+# --- Configuración ---
 USER="${1:-$(gh api user --jq '.login')}"
-OUTPUT_DIR="./github_export_$(date +%Y%m%d_%H%M%S)"
-mkdir -p "$OUTPUT_DIR"
+REPO_DESTINO="https://github.com/grisuno/security_issue.git"   # Cambia si quieres otro repo
+DIR_LOCAL="$HOME/security_issue"   # Directorio donde clonaremos localmente
+TIMESTAMP=$(date +%Y%m%d_%H%M%S)
+EXPORT_DIR="./github_export_$TIMESTAMP"
+mkdir -p "$EXPORT_DIR"
 
-INDEX_FILE="$OUTPUT_DIR/INDEX.md"
-SUMMARY_FILE="$OUTPUT_DIR/SUMMARY.md"
+# Archivos de salida
+INDEX_FILE="$EXPORT_DIR/INDEX.md"
+SUMMARY_FILE="$EXPORT_DIR/SUMMARY.md"
+
+# Inicializar índice
 echo "# Repository Statistics for $USER" > "$INDEX_FILE"
 echo "" >> "$INDEX_FILE"
-echo "| Repository | ⭐ Stars | 📥 Clones (14d) | 🟢 Open Issues | 📋 Total Issues | 🛡️ Dependabot Open | 🔍 CodeScan Open |" >> "$INDEX_FILE"
+echo "| Repository | ⭐ Stars | 📥 Clones (14d) | 🟢 Open Issues | 📋 Total Issues | 🛡 Dependabot Open | 🔍 CodeScan Open |" >> "$INDEX_FILE"
 echo "|------------|---------|----------------|----------------|----------------|---------------------|-------------------|" >> "$INDEX_FILE"
 
-# --- Helper functions ---
+# --- Funciones auxiliares ---
 
 get_clones() {
     local repo="$1"
@@ -32,7 +38,7 @@ get_clones() {
 save_issue() {
     local repo="$1"
     local issue="$2"
-    local repo_dir="$OUTPUT_DIR/$repo"
+    local repo_dir="$EXPORT_DIR/$repo"
     mkdir -p "$repo_dir"
 
     number=$(echo "$issue" | jq -r '.number')
@@ -61,7 +67,7 @@ EOF
 save_dependabot_alert() {
     local repo="$1"
     local alert="$2"
-    local alert_dir="$OUTPUT_DIR/$repo/dependabot"
+    local alert_dir="$EXPORT_DIR/$repo/dependabot"
     mkdir -p "$alert_dir"
 
     number=$(echo "$alert" | jq -r '.number // 0')
@@ -89,13 +95,13 @@ $summary
 ## Description
 $description
 EOF
-    echo "- [Dependabot #$number](./dependabot/alert_${number}.md) - $package ($severity) - $state" >> "$OUTPUT_DIR/$repo/README.md"
+    echo "- [Dependabot #$number](./dependabot/alert_${number}.md) - $package ($severity) - $state" >> "$EXPORT_DIR/$repo/README.md"
 }
 
 save_codescan_alert() {
     local repo="$1"
     local alert="$2"
-    local alert_dir="$OUTPUT_DIR/$repo/codescan"
+    local alert_dir="$EXPORT_DIR/$repo/codescan"
     mkdir -p "$alert_dir"
 
     number=$(echo "$alert" | jq -r '.number // 0')
@@ -119,12 +125,11 @@ save_codescan_alert() {
 ## Description
 $rule_desc
 EOF
-    echo "- [CodeScan #$number](./codescan/alert_${number}.md) - $rule_id ($severity) - $state" >> "$OUTPUT_DIR/$repo/README.md"
+    echo "- [CodeScan #$number](./codescan/alert_${number}.md) - $rule_id ($severity) - $state" >> "$EXPORT_DIR/$repo/README.md"
 }
 
-# --- Main loop ---
-
-echo "[*] Fetching repository list for $USER..."
+# --- Obtener lista de repositorios ---
+echo "[*] Fetching repositories for $USER..."
 repos=$(gh repo list "$USER" --limit 1000 --json name -q '.[].name' 2>/dev/null)
 if [ -z "$repos" ]; then
     echo "[-] No repositories found or insufficient permissions."
@@ -132,9 +137,9 @@ if [ -z "$repos" ]; then
 fi
 
 total_repos=$(echo "$repos" | wc -w)
-echo "[*] Total repositories found: $total_repos"
+echo "[*] Total repositories: $total_repos"
 
-# Global counters for SUMMARY
+# --- Variables globales para resumen ---
 global_issues=0
 global_dependabot=0
 global_codescan=0
@@ -145,30 +150,30 @@ global_repos_processed=0
 count=0
 for repo in $repos; do
     ((count++))
-    echo "[*] ($count/$total_repos) Processing repository: $repo"
+    echo "[*] ($count/$total_repos) Processing: $repo"
 
-    REPO_DIR="$OUTPUT_DIR/$repo"
+    REPO_DIR="$EXPORT_DIR/$repo"
     mkdir -p "$REPO_DIR"
 
-    # Basic repo info
+    # Información básica
     repo_info=$(gh api "repos/$USER/$repo" --jq '{stars: .stargazers_count, open_issues: .open_issues_count, description: .description}' 2>/dev/null || echo '{"stars":0,"open_issues":0,"description":""}')
     stars=$(echo "$repo_info" | jq -r '.stars // 0')
     open_issues=$(echo "$repo_info" | jq -r '.open_issues // 0')
     description=$(echo "$repo_info" | jq -r '.description // ""')
     clones=$(get_clones "$repo")
 
-    # Count total issues (all states, excluding PRs)
+    # Total de issues (todas las estados) - solo para estadística
     total_issues=$(gh api --paginate "repos/$USER/$repo/issues?state=all" --jq '[.[] | select(.pull_request == null)] | length' 2>/dev/null || echo "0")
 
-    # Fetch Dependabot alerts (open)
+    # Alertas Dependabot (abiertas)
     dependabot_alerts=$(gh api --paginate "repos/$USER/$repo/dependabot/alerts?state=open" --jq '.[]' 2>/dev/null || echo "")
     count_dependabot=$(echo "$dependabot_alerts" | jq -s 'length' 2>/dev/null || echo "0")
 
-    # Fetch Code Scanning alerts (open)
+    # Alertas CodeScan (abiertas)
     codescan_alerts=$(gh api --paginate "repos/$USER/$repo/code-scanning/alerts?state=open" --jq '.[]' 2>/dev/null || echo "")
     count_codescan=$(echo "$codescan_alerts" | jq -s 'length' 2>/dev/null || echo "0")
 
-    # Create README.md for this repo
+    # Crear README.md del repositorio
     cat > "$REPO_DIR/README.md" <<EOF
 # Repository: $repo
 
@@ -180,55 +185,43 @@ for repo in $repos; do
 | 📥 Clones (last 14 days) | $clones |
 | 🟢 Open Issues | $open_issues |
 | 📋 Total Issues | $total_issues |
-| 🛡️ Dependabot Open Alerts | $count_dependabot |
+| 🛡 Dependabot Open Alerts | $count_dependabot |
 | 🔍 CodeScan Open Alerts | $count_codescan |
 
 ## Issues
 EOF
 
-    # Download issues (paginated)
-    page=1
+    # --- Descargar issues (usando proceso de sustitución para evitar subshell) ---
     issue_count=0
-    while true; do
-        issues_page=$(gh api "repos/$USER/$repo/issues?state=all&per_page=100&page=$page" --jq '.[] | select(.pull_request == null)' 2>/dev/null) || break
-        if [ -z "$issues_page" ] || [ "$(echo "$issues_page" | jq -s 'length')" -eq 0 ]; then
-            break
-        fi
+    # Usamos un pipe directo con while read, pero en Bash podemos usar 'lastpipe' o redirección
+    # Mejor: usar while read con un pipe, pero para que las variables se actualicen, usamos proceso de sustitución
+    while IFS= read -r issue; do
+        save_issue "$repo" "$issue"
+        ((issue_count++))
+    done < <(gh api --paginate "repos/$USER/$repo/issues?state=all" --jq '.[] | select(.pull_request == null)' 2>/dev/null)
 
-        echo "$issues_page" | jq -c '.' | while read -r issue; do
-            save_issue "$repo" "$issue"
-            ((issue_count++))
-        done
-
-        if [ "$(echo "$issues_page" | jq -s 'length')" -lt 100 ]; then
-            break
-        fi
-        ((page++))
-    done
-
-    # Save Dependabot alerts
+    # --- Guardar alertas Dependabot ---
     if [ "$count_dependabot" -gt 0 ]; then
         echo "" >> "$REPO_DIR/README.md"
         echo "## Dependabot Alerts" >> "$REPO_DIR/README.md"
-        echo "$dependabot_alerts" | jq -c '.' 2>/dev/null | while read -r alert; do
+        while IFS= read -r alert; do
             save_dependabot_alert "$repo" "$alert"
-        done
+        done < <(echo "$dependabot_alerts" | jq -c '.')
     fi
 
-    # Save CodeScan alerts
+    # --- Guardar alertas CodeScan ---
     if [ "$count_codescan" -gt 0 ]; then
         echo "" >> "$REPO_DIR/README.md"
         echo "## Code Scanning Alerts" >> "$REPO_DIR/README.md"
-        echo "$codescan_alerts" | jq -c '.' 2>/dev/null | while read -r alert; do
+        while IFS= read -r alert; do
             save_codescan_alert "$repo" "$alert"
-        done
+        done < <(echo "$codescan_alerts" | jq -c '.')
     fi
 
-    # Append total issues to README
     echo "" >> "$REPO_DIR/README.md"
     echo "Total issues downloaded: $issue_count" >> "$REPO_DIR/README.md"
 
-    # Update global counters
+    # Acumular globales
     global_issues=$((global_issues + issue_count))
     global_dependabot=$((global_dependabot + count_dependabot))
     global_codescan=$((global_codescan + count_codescan))
@@ -236,13 +229,13 @@ EOF
     global_clones=$((global_clones + clones))
     ((global_repos_processed++))
 
-    # Add entry to global INDEX
+    # Agregar al índice
     echo "| [$repo]($REPO_DIR/README.md) | $stars | $clones | $open_issues | $total_issues | $count_dependabot | $count_codescan |" >> "$INDEX_FILE"
 
     echo "[+] Completed $repo ($issue_count issues, $count_dependabot Dependabot, $count_codescan CodeScan)"
 done
 
-# --- Generate SUMMARY file ---
+# --- Generar resumen global ---
 cat > "$SUMMARY_FILE" <<EOF
 # Global Summary for $USER
 
@@ -253,9 +246,9 @@ cat > "$SUMMARY_FILE" <<EOF
 - **Total stars across all repos:** $global_stars
 - **Total clones (last 14 days):** $global_clones
 
-## Breakdown by Repository
+## Detailed per‑repository statistics
 
-See the [INDEX](./INDEX.md) for detailed per-repo statistics.
+See [INDEX](./INDEX.md).
 
 ---
 
@@ -263,7 +256,51 @@ See the [INDEX](./INDEX.md) for detailed per-repo statistics.
 EOF
 
 echo ""
-echo "[*] All done! Processed $global_repos_processed repositories."
-echo "[*] Output directory: $OUTPUT_DIR"
-echo "[*] Global index: $INDEX_FILE"
-echo "[*] Summary: $SUMMARY_FILE"
+echo "[*] Export completed. Files in: $EXPORT_DIR"
+
+# --- SUBIR A GITHUB ---
+echo "[*] Preparing to push to $REPO_DESTINO"
+
+# Si no existe el directorio local, clonamos
+if [ ! -d "$DIR_LOCAL" ]; then
+    echo "[*] Cloning repository..."
+    git clone "$REPO_DESTINO" "$DIR_LOCAL"
+    if [ $? -ne 0 ]; then
+        echo "[-] Failed to clone. Exiting."
+        exit 1
+    fi
+else
+    echo "[*] Updating existing local repository..."
+    cd "$DIR_LOCAL"
+    git pull origin main || git pull origin master
+    cd - > /dev/null
+fi
+
+# Limpiar el contenido previo (excepto .git)
+cd "$DIR_LOCAL"
+rm -rf ./* .[^.]*
+cd - > /dev/null
+
+# Copiar todos los archivos generados al directorio local
+cp -r "$EXPORT_DIR"/* "$DIR_LOCAL"/
+
+# Mover el ÍNDICE y el RESUMEN a la raíz para que sean visibles
+cp "$INDEX_FILE" "$DIR_LOCAL/README.md"
+cp "$SUMMARY_FILE" "$DIR_LOCAL/SUMMARY.md"
+
+# Asegurarse de que el README.md principal contenga el índice
+# Ya lo hemos copiado como README.md
+
+# Commit y push
+cd "$DIR_LOCAL"
+git add -A
+git commit -m "Security export update $(date +'%Y-%m-%d %H:%M')"
+git push origin main || git push origin master
+if [ $? -eq 0 ]; then
+    echo "[*] Successfully pushed to $REPO_DESTINO"
+else
+    echo "[-] Push failed. Please check your credentials and network."
+fi
+cd - > /dev/null
+
+echo "[*] All done. Visit https://github.com/grisuno/security_issue to see the updated data."
