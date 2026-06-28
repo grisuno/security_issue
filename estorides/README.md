@@ -5,11 +5,11 @@
 | Metric | Value |
 |--------|-------|
 | ⭐ Stars | 63 |
-| 📥 Clones (last 14 days) | 537 |
+| 📥 Clones (last 14 days) | 202 |
 | 🟢 Open Issues | 50 |
 | 📋 Total Issues | 50 |
 | 🛡 Dependabot Open Alerts | 0 |
-| 🔍 CodeScan Open Alerts | 16 |
+| 🔍 CodeScan Open Alerts | 15 |
 
 ## Issues
 - [#50](./issue_50.md) - RUN_STREAM_JOBS and DISCOVER_JOBS hold BufferedEventSink objects indefinitely — memory exhaustion via sustained job creation (open)
@@ -66,7 +66,6 @@
 ## Code Scanning Alerts
 - [CodeScan #16](./codescan/alert_16.md) - js/xss-through-dom (warning) - open
 - [CodeScan #15](./codescan/alert_15.md) - js/xss-through-dom (warning) - open
-- [CodeScan #14](./codescan/alert_14.md) - js/functionality-from-untrusted-source (warning) - open
 - [CodeScan #13](./codescan/alert_13.md) - py/incomplete-url-substring-sanitization (warning) - open
 - [CodeScan #12](./codescan/alert_12.md) - py/incomplete-url-substring-sanitization (warning) - open
 - [CodeScan #11](./codescan/alert_11.md) - py/url-redirection (error) - open
