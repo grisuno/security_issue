@@ -1,16 +1,16 @@
 # Global Summary for grisuno
 
-- **Total repositories processed:** 1
-- **Total issues downloaded:** 0
-- **Total Dependabot alerts (open):** 0
-- **Total Code Scanning alerts (open):** 6
-- **Total stars across all repos:** 7
-- **Total clones (last 14 days):** 1453
-- **Progressive PRs created:** 1 (skipped: 0, failed: 0)
+- **Total repositories processed:** 133
+- **Total issues downloaded:** 62
+- **Total Dependabot alerts (open):** 157
+- **Total Code Scanning alerts (open):** 156
+- **Total stars across all repos:** 534
+- **Total clones (last 14 days):** 3316
+- **Progressive PRs created:** 133 (skipped: 0, failed: 0)
 - **Branch used:** `security-export-2026-06-28-<timestamp>`
 
 See [INDEX](./INDEX.md).
 
 ---
 
-*Generated on dom 28 jun 2026 16:48:50 -04*
+*Generated on dom 28 jun 2026 17:12:40 -04*
