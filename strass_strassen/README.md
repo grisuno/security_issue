@@ -1,11 +1,11 @@
 # Repository: strass_strassen
 
-**Description:** Engineering Algorithmic Structure in Neural Networks: From a Materials Science Perspective to Algorithmic Thermodynamics of Deep Learning
+**Description:** 
 
 | Metric | Value |
 |--------|-------|
-| ⭐ Stars | 3 |
-| 📥 Clones (last 14 days) | 33 |
+| ⭐ Stars | 0 |
+| 📥 Clones (last 14 days) | 34 |
 | 🟢 Open Issues | 0 |
 | 📋 Total Issues | 0 |
 | 🛡 Dependabot Open Alerts | 1 |
