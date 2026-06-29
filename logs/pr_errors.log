@@ -1,0 +1,2 @@
+pytbackdoorch	fail	gh pr create falló	HTTP 401: Bad credentials (https://api.github.com/graphql)
+Try authenticating with:  gh auth refresh -h github.com
