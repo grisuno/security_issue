@@ -6,7 +6,7 @@
 |--------|-------|
 | ⭐ Stars | 12 |
 | 📥 Clones (last 14 days) | 39 |
-| 🟢 Open Issues | 3 |
+| 🟢 Open Issues | 4 |
 | 📋 Total Issues | 0 |
 | 🛡 Dependabot Open Alerts | 1 |
 | 🔍 CodeScan Open Alerts | 1 |
