@@ -4,14 +4,14 @@
 - **Total issues downloaded:** 62
 - **Total Dependabot alerts (open):** 127
 - **Total Code Scanning alerts (open):** 159
-- **Total stars across all repos:** 535
-- **Total clones (last 14 days):** 4773
-- **Progressive PRs created:** 133 (skipped: 0, failed: 2)
+- **Total stars across all repos:** 537
+- **Total clones (last 14 days):** 4802
+- **Progressive PRs created:** 135 (skipped: 0, failed: 0)
 - **Branch used (fija, se reemplaza en cada ejecución):** `security-export`
-- **Branch protection:** new=0, already=2, skipped=0, failed=133
+- **Branch protection:** new=0, already=17, skipped=0, failed=118
 
 See [INDEX](./INDEX.md).
 
 ---
 
-*Generated on lun 29 jun 2026 16:00:37 -04*
+*Generated on mar 30 jun 2026 01:12:21 -04*
