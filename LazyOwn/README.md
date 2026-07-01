@@ -9,7 +9,7 @@
 | 🟢 Open Issues | 1 |
 | 📋 Total Issues | 4 |
 | 🛡 Dependabot Open Alerts | 3 |
-| 🔍 CodeScan Open Alerts | 5 |
+| 🔍 CodeScan Open Alerts | 10 |
 
 ## Issues
 - [#84](./issue_84.md) - Lazynmap failing to execute (closed)
@@ -23,6 +23,11 @@
 - [Dependabot #45](./dependabot/alert_45.md) - python-engineio (high) - open
 
 ## Code Scanning Alerts
+- [CodeScan #781](./codescan/alert_781.md) - py/incomplete-url-substring-sanitization (warning) - open
+- [CodeScan #780](./codescan/alert_780.md) - py/incomplete-url-substring-sanitization (warning) - open
+- [CodeScan #779](./codescan/alert_779.md) - py/incomplete-url-substring-sanitization (warning) - open
+- [CodeScan #778](./codescan/alert_778.md) - py/incomplete-url-substring-sanitization (warning) - open
+- [CodeScan #777](./codescan/alert_777.md) - py/incomplete-url-substring-sanitization (warning) - open
 - [CodeScan #776](./codescan/alert_776.md) - py/overly-large-range (warning) - open
 - [CodeScan #775](./codescan/alert_775.md) - py/overly-large-range (warning) - open
 - [CodeScan #767](./codescan/alert_767.md) - py/bind-socket-all-network-interfaces (error) - open
