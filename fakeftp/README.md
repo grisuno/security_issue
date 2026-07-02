@@ -1,11 +1,11 @@
-# Repository: lietome
+# Repository: fakeftp
 
-**Description:** 
+**Description:** LazyOwn Sniffer + Fake FTP Server
 
 | Metric | Value |
 |--------|-------|
 | ⭐ Stars | 0 |
-| 📥 Clones (last 14 days) | 60 |
+| 📥 Clones (last 14 days) | 0 |
 | 🟢 Open Issues | 0 |
 | 📋 Total Issues | 0 |
 | 🛡 Dependabot Open Alerts | 1 |

@@ -1,1 +1,2 @@
-lietome	fail	gh pr create falló	pull request create failed: GraphQL: Something went wrong while executing your query on 2026-07-01T14:05:13Z. Please include `C8DC:15BE4B:4A4F62:4D2B69:6A451E96` when reporting this issue.
+eStickFix	fail	gh pr create falló	a pull request for branch "security-export" into branch "main" already exists:
+https://github.com/grisuno/eStickFix/pull/14
