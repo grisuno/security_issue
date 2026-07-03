@@ -1,2 +1,0 @@
-netsh_helper_dll	fail	gh pr create falló	a pull request for branch "security-export" into branch "main" already exists:
-https://github.com/grisuno/netsh_helper_dll/pull/13
