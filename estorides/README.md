@@ -4,8 +4,8 @@
 
 | Metric | Value |
 |--------|-------|
-| ⭐ Stars | 64 |
-| 📥 Clones (last 14 days) | 818 |
+| ⭐ Stars | 65 |
+| 📥 Clones (last 14 days) | 844 |
 | 🟢 Open Issues | 1 |
 | 📋 Total Issues | 50 |
 | 🛡 Dependabot Open Alerts | 0 |
