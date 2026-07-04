@@ -1,12 +1,12 @@
-# Repository: rurlz
+# Repository: miniGCC
 
-**Description:** admin of urls
+**Description:** a poc of a c compiler not self compile yet (G1).
 
 | Metric | Value |
 |--------|-------|
 | ⭐ Stars | 0 |
-| 📥 Clones (last 14 days) | 15 |
-| 🟢 Open Issues | 1 |
+| 📥 Clones (last 14 days) | 58 |
+| 🟢 Open Issues | 0 |
 | 📋 Total Issues | 0 |
 | 🛡 Dependabot Open Alerts | 1 |
 | 🔍 CodeScan Open Alerts | 1 |
