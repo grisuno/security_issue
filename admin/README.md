@@ -5,10 +5,7 @@
 | Metric | Value |
 |--------|-------|
 | ⭐ Stars | 0 |
-| 📥 Clones (last 14 days) | {
-  "message": "Server Error"
-}
-0 |
+| 📥 Clones (last 14 days) | 128 |
 | 🟢 Open Issues | 1 |
 | 📋 Total Issues | 0 |
 | 🛡 Dependabot Open Alerts | 1 |

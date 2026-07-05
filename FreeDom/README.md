@@ -4,16 +4,17 @@
 
 | Metric | Value |
 |--------|-------|
-| ⭐ Stars | 13 |
+| ⭐ Stars | 16 |
 | 📥 Clones (last 14 days) | 1310 |
 | 🟢 Open Issues | 1 |
 | 📋 Total Issues | 0 |
 | 🛡 Dependabot Open Alerts | 0 |
-| 🔍 CodeScan Open Alerts | 6 |
+| 🔍 CodeScan Open Alerts | 7 |
 
 ## Issues
 
 ## Code Scanning Alerts
+- [CodeScan #14](./codescan/alert_14.md) - cpp/overflowing-snprintf (warning) - open
 - [CodeScan #13](./codescan/alert_13.md) - cpp/overflowing-snprintf (warning) - open
 - [CodeScan #12](./codescan/alert_12.md) - cpp/non-https-url (warning) - open
 - [CodeScan #11](./codescan/alert_11.md) - actions/missing-workflow-permissions (warning) - open
