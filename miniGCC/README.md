@@ -1,11 +1,11 @@
 # Repository: miniGCC
 
-**Description:** a poc of a c compiler not self compile yet in G3
+**Description:** a poc of a c compiler self hosted in G3
 
 | Metric | Value |
 |--------|-------|
-| ⭐ Stars | 0 |
-| 📥 Clones (last 14 days) | 58 |
+| ⭐ Stars | 1 |
+| 📥 Clones (last 14 days) | 130 |
 | 🟢 Open Issues | 1 |
 | 📋 Total Issues | 0 |
 | 🛡 Dependabot Open Alerts | 1 |
