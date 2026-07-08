@@ -1,1 +1,6 @@
-Laderman	fail	clone falló
+grisuno	fail	gh pr create falló	a pull request for branch "security-export" into branch "main" already exists:
+https://github.com/grisuno/grisuno/pull/20
+FreeDom	fail	gh pr create falló	a pull request for branch "security-export" into branch "main" already exists:
+https://github.com/grisuno/FreeDom/pull/21
+estorides	fail	gh pr create falló	a pull request for branch "security-export" into branch "main" already exists:
+https://github.com/grisuno/estorides/pull/71
