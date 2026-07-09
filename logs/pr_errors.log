@@ -1,1 +1,2 @@
-linux	fail	gh pr create falló	pull request create failed: HTTP 502: 502 Bad Gateway (https://api.github.com/graphql)
+amsi	fail	gh pr create falló	a pull request for branch "security-export" into branch "main" already exists:
+https://github.com/grisuno/amsi/pull/21
