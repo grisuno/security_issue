@@ -5,11 +5,11 @@
 | Metric | Value |
 |--------|-------|
 | ⭐ Stars | 85 |
-| 📥 Clones (last 14 days) | 906 |
+| 📥 Clones (last 14 days) | 939 |
 | 🟢 Open Issues | 1 |
 | 📋 Total Issues | 50 |
 | 🛡 Dependabot Open Alerts | 0 |
-| 🔍 CodeScan Open Alerts | 16 |
+| 🔍 CodeScan Open Alerts | 17 |
 
 ## Issues
 - [#50](./issue_50.md) - RUN_STREAM_JOBS and DISCOVER_JOBS hold BufferedEventSink objects indefinitely — memory exhaustion via sustained job creation (closed)
@@ -64,6 +64,7 @@
 - [#1](./issue_1.md) - Unauthenticated /api/cases leaks the full historical investigation corpus (closed)
 
 ## Code Scanning Alerts
+- [CodeScan #23](./codescan/alert_23.md) - py/incomplete-url-substring-sanitization (warning) - open
 - [CodeScan #22](./codescan/alert_22.md) - py/stack-trace-exposure (error) - open
 - [CodeScan #21](./codescan/alert_21.md) - py/stack-trace-exposure (error) - open
 - [CodeScan #20](./codescan/alert_20.md) - js/xss-through-dom (warning) - open

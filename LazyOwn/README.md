@@ -5,14 +5,14 @@
 | Metric | Value |
 |--------|-------|
 | ⭐ Stars | 213 |
-| 📥 Clones (last 14 days) | 1030 |
-| 🟢 Open Issues | 2 |
+| 📥 Clones (last 14 days) | 1134 |
+| 🟢 Open Issues | 1 |
 | 📋 Total Issues | 5 |
 | 🛡 Dependabot Open Alerts | 0 |
 | 🔍 CodeScan Open Alerts | 2 |
 
 ## Issues
-- [#165](./issue_165.md) - Docker failed build (open)
+- [#165](./issue_165.md) - Docker failed build (closed)
 - [#84](./issue_84.md) - Lazynmap failing to execute (closed)
 - [#30](./issue_30.md) - Please remove ngrok as a tunneling option as this tool violates the terms of service (closed)
 - [#17](./issue_17.md) - Fix code scanning alert - Flask app is run in debug mode (closed)

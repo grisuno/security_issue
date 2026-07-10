@@ -1,8 +1,8 @@
 # Issue #165: Docker failed build
 
-- **State:** open
+- **State:** closed
 - **Created:** 2026-07-08T22:21:04Z
-- **Updated:** 2026-07-09T16:27:04Z
+- **Updated:** 2026-07-09T19:37:55Z
 - **Labels:** None
 
 ---
