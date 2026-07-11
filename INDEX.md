@@ -2,7 +2,7 @@
 
 | Repository | ⭐ Stars | 📥 Clones (14d) | 🟢 Open Issues | 📋 Total Issues | 🛡 Dependabot Open | 🔍 CodeScan Open |
 |------------|---------|----------------|----------------|----------------|---------------------|-------------------|
-| [LazyOwn](https://github.com/grisuno/LazyOwn) | 213 | 0 | 2 | 5 | 2 | 2 |
+| [LazyOwn](https://github.com/grisuno/LazyOwn) | 213 | 1152 | 2 | 5 | 2 | 2 |
 | [estorides](https://github.com/grisuno/estorides) | 85 | 968 | 2 | 50 | 0 | 17 |
 | [LazyOwnInfiniteStorage](https://github.com/grisuno/LazyOwnInfiniteStorage) | 30 | 166 | 2 | 2 | 0 | 0 |
 | [FreeDom](https://github.com/grisuno/FreeDom) | 17 | 1108 | 1 | 0 | 0 | 1 |
@@ -56,7 +56,7 @@
 | [TopoVJEPA](https://github.com/grisuno/TopoVJEPA) | 1 | 0 | 1 | 0 | 1 | 1 |
 | [text2videotutorial](https://github.com/grisuno/text2videotutorial) | 1 | 180 | 2 | 0 | 1 | 1 |
 | [shad0w](https://github.com/grisuno/shad0w) | 1 | 53 | 1 | 0 | 1 | 1 |
-| [ReadMenator](https://github.com/grisuno/ReadMenator) | 1 | 0 | 2 | 0 | 0 | 1 |
+| [ReadMenator](https://github.com/grisuno/ReadMenator) | 1 | 0 | 3 | 0 | 0 | 1 |
 | [ramanujan](https://github.com/grisuno/ramanujan) | 1 | 118 | 2 | 0 | 1 | 1 |
 | [PythonTutorial](https://github.com/grisuno/PythonTutorial) | 1 | 124 | 2 | 0 | 1 | 1 |
 | [peviwer](https://github.com/grisuno/peviwer) | 1 | 127 | 2 | 0 | 1 | 1 |
@@ -143,7 +143,7 @@
 | [basilisco](https://github.com/grisuno/basilisco) | 0 | 118 | 2 | 0 | 1 | 1 |
 | [backdoros](https://github.com/grisuno/backdoros) | 0 | 131 | 2 | 0 | 1 | 1 |
 | [axlle.htb](https://github.com/grisuno/axlle.htb) | 0 | 109 | 2 | 0 | 1 | 1 |
-| [anasniffdeep](https://github.com/grisuno/anasniffdeep) | 0 | 186 | 2 | 0 | 1 | 1 |
+| [anasniffdeep](https://github.com/grisuno/anasniffdeep) | 0 | 186 | 1 | 0 | 1 | 1 |
 | [ajedrez](https://github.com/grisuno/ajedrez) | 0 | 120 | 2 | 0 | 1 | 1 |
 | [adonay](https://github.com/grisuno/adonay) | 0 | 122 | 2 | 0 | 1 | 1 |
 | [adn](https://github.com/grisuno/adn) | 0 | 135 | 2 | 0 | 1 | 1 |
