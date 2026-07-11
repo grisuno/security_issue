@@ -5,10 +5,10 @@
 | Metric | Value |
 |--------|-------|
 | ⭐ Stars | 213 |
-| 📥 Clones (last 14 days) | 1134 |
-| 🟢 Open Issues | 1 |
+| 📥 Clones (last 14 days) | 0 |
+| 🟢 Open Issues | 2 |
 | 📋 Total Issues | 5 |
-| 🛡 Dependabot Open Alerts | 0 |
+| 🛡 Dependabot Open Alerts | 2 |
 | 🔍 CodeScan Open Alerts | 2 |
 
 ## Issues
@@ -17,6 +17,10 @@
 - [#30](./issue_30.md) - Please remove ngrok as a tunneling option as this tool violates the terms of service (closed)
 - [#17](./issue_17.md) - Fix code scanning alert - Flask app is run in debug mode (closed)
 - [#16](./issue_16.md) - Fix code scanning alert - Information exposure through an exception (closed)
+
+## Dependabot Alerts
+- [Dependabot #49](./dependabot/alert_49.md) - soupsieve (high) - open
+- [Dependabot #48](./dependabot/alert_48.md) - soupsieve (high) - open
 
 ## Code Scanning Alerts
 - [CodeScan #783](./codescan/alert_783.md) - py/clear-text-storage-sensitive-data (error) - open
