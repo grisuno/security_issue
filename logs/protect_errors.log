@@ -1,7 +1,7 @@
+deploynator	main	fail	PUT protection HTTP 000
 TopoVJEPA	main	fail	PUT protection HTTP 000
 miniGCC	main	fail	PUT protection HTTP 000
-linux	master	fail	PUT protection HTTP 000
-winsdk-10	master	fail	PUT protection HTTP 000
+ReadMenator	main	fail	PUT protection HTTP 000
 QC	main	fail	PUT protection HTTP 000
 resma	main	fail	PUT protection HTTP 000
 maxwell	main	fail	PUT protection HTTP 000
@@ -11,7 +11,6 @@ deeptrue	main	fail	PUT protection HTTP 000
 eStickFix	main	fail	PUT protection HTTP 000
 hypergeometric	main	fail	PUT protection HTTP 000
 backdoros	master	fail	PUT protection HTTP 000
-anasniffdeep	main	fail	PUT protection HTTP 000
 pyKerbrute	master	fail	PUT protection HTTP 000
 rustrev	main	fail	PUT protection HTTP 000
 create_tree	main	fail	PUT protection HTTP 000
@@ -40,7 +39,6 @@ beacon	main	fail	PUT protection HTTP 000
 ShellcodeFluctuation_crosscompile	main	fail	PUT protection HTTP 000
 CompressLoader	main	fail	PUT protection HTTP 000
 BlackSerpentine	main	fail	PUT protection HTTP 000
-shad0w	main	fail	PUT protection HTTP 000
 BlackZincBeacon	main	fail	PUT protection HTTP 000
 probofs	main	fail	PUT protection HTTP 000
 liber-monitor	main	fail	PUT protection HTTP 000
@@ -78,8 +76,6 @@ template	main	fail	PUT protection HTTP 000
 BOFs	main	fail	PUT protection HTTP 000
 LazyOwnInfiniteStorage	main	fail	PUT protection HTTP 000
 curlfree	main	fail	PUT protection HTTP 000
-admin	main	fail	PUT protection HTTP 000
-ReadMenator	main	fail	PUT protection HTTP 000
 vulns-2026-fatfs-chance	main	fail	PUT protection HTTP 000
 Havoc	main	fail	PUT protection HTTP 000
 HavocC2-Custom-Profile-Template	main	fail	PUT protection HTTP 000
@@ -128,3 +124,8 @@ blockchain3	main	fail	PUT protection HTTP 000
 grisiscomeback	main	fail	PUT protection HTTP 000
 rust_tcp_ip	main	fail	PUT protection HTTP 000
 fakeftp	main	fail	PUT protection HTTP 000
+admin	main	fail	PUT protection HTTP 000
+shad0w	main	fail	PUT protection HTTP 000
+anasniffdeep	main	fail	PUT protection HTTP 000
+winsdk-10	master	fail	PUT protection HTTP 000
+linux	master	fail	PUT protection HTTP 000
