@@ -1,10 +1,12 @@
+[PROTECT] ✓ FreeDom/main ya estaba protegida
+[PROTECT] ✗ ReadMenator/main: PUT protection HTTP 000
+[PROTECT] ✓ VSL-DSP/main ya estaba protegida
+[PROTECT] ✗ blocknator/main: PUT protection HTTP 000
+[PROTECT] ✓ estorides/main ya estaba protegida
 [PROTECT] ✓ LazyOwn/main ya estaba protegida
 [PROTECT] ✗ deploynator/main: PUT protection HTTP 000
-[PROTECT] ✓ FreeDom/main ya estaba protegida
 [PROTECT] ✗ TopoVJEPA/main: PUT protection HTTP 000
 [PROTECT] ✗ miniGCC/main: PUT protection HTTP 000
-[PROTECT] ✗ ReadMenator/main: PUT protection HTTP 000
-[PROTECT] ✓ estorides/main ya estaba protegida
 [PROTECT] ✗ QC/main: PUT protection HTTP 000
 [PROTECT] ✗ resma/main: PUT protection HTTP 000
 [PROTECT] ✗ maxwell/main: PUT protection HTTP 000
@@ -89,7 +91,6 @@
 [PROTECT] ✗ template/main: PUT protection HTTP 000
 [PROTECT] ✓ blacksandbeacon/main ya estaba protegida
 [PROTECT] ✗ BOFs/main: PUT protection HTTP 000
-[PROTECT] ✓ VSL-DSP/main ya estaba protegida
 [PROTECT] ✗ LazyOwnInfiniteStorage/main: PUT protection HTTP 000
 [PROTECT] ✗ curlfree/main: PUT protection HTTP 000
 [PROTECT] ✗ vulns-2026-fatfs-chance/main: PUT protection HTTP 000
@@ -140,9 +141,9 @@
 [PROTECT] ✗ grisiscomeback/main: PUT protection HTTP 000
 [PROTECT] ✗ rust_tcp_ip/main: PUT protection HTTP 000
 [PROTECT] ✗ fakeftp/main: PUT protection HTTP 000
-[PROTECT] ✓ strass_strassen/main ya estaba protegida
-[PROTECT] ✗ admin/main: PUT protection HTTP 000
-[PROTECT] ✗ shad0w/main: PUT protection HTTP 000
-[PROTECT] ✗ anasniffdeep/main: PUT protection HTTP 000
-[PROTECT] ✗ winsdk-10/master: PUT protection HTTP 000
 [PROTECT] ✗ linux/master: PUT protection HTTP 000
+[PROTECT] ✗ winsdk-10/master: PUT protection HTTP 000
+[PROTECT] ✗ anasniffdeep/main: PUT protection HTTP 000
+[PROTECT] ✗ shad0w/main: PUT protection HTTP 000
+[PROTECT] ✗ admin/main: PUT protection HTTP 000
+[PROTECT] ✓ strass_strassen/main ya estaba protegida
