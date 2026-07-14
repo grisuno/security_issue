@@ -4,7 +4,7 @@
 
 | Metric | Value |
 |--------|-------|
-| ⭐ Stars | 1 |
+| ⭐ Stars | 2 |
 | 📥 Clones (last 14 days) | 314 |
 | 🟢 Open Issues | 1 |
 | 📋 Total Issues | 0 |

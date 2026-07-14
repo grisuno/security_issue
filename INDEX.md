@@ -3,7 +3,7 @@
 | Repository | ⭐ Stars | 📥 Clones (14d) | 🟢 Open Issues | 📋 Total Issues | 🛡 Dependabot Open | 🔍 CodeScan Open |
 |------------|---------|----------------|----------------|----------------|---------------------|-------------------|
 | [LazyOwn](https://github.com/grisuno/LazyOwn) | 213 | 1410 | 2 | 5 | 2 | 7 |
-| [estorides](https://github.com/grisuno/estorides) | 85 | 1031 | 2 | 50 | 0 | 20 |
+| [estorides](https://github.com/grisuno/estorides) | 85 | 1031 | 2 | 50 | 0 | 2 |
 | [LazyOwnInfiniteStorage](https://github.com/grisuno/LazyOwnInfiniteStorage) | 30 | 192 | 2 | 2 | 0 | 0 |
 | [FreeDom](https://github.com/grisuno/FreeDom) | 17 | 1302 | 2 | 0 | 0 | 3 |
 | [blacksandbeacon](https://github.com/grisuno/blacksandbeacon) | 14 | 196 | 4 | 0 | 1 | 1 |
@@ -43,6 +43,7 @@
 | [SWAN-Phoenix-Rising](https://github.com/grisuno/SWAN-Phoenix-Rising) | 2 | 144 | 2 | 0 | 1 | 1 |
 | [ShellcodeFluctuation_crosscompile](https://github.com/grisuno/ShellcodeFluctuation_crosscompile) | 2 | 148 | 2 | 0 | 1 | 1 |
 | [ScriptAnimator](https://github.com/grisuno/ScriptAnimator) | 2 | 133 | 2 | 0 | 1 | 1 |
+| [ReadMenator](https://github.com/grisuno/ReadMenator) | 2 | 314 | 1 | 0 | 0 | 1 |
 | [lie-detector](https://github.com/grisuno/lie-detector) | 2 | 132 | 2 | 0 | 1 | 1 |
 | [liber-monitor](https://github.com/grisuno/liber-monitor) | 2 | 225 | 2 | 0 | 1 | 1 |
 | [LazyOwnOpenCodeAdapter](https://github.com/grisuno/LazyOwnOpenCodeAdapter) | 2 | 140 | 2 | 0 | 1 | 1 |
@@ -50,13 +51,12 @@
 | [Laderman](https://github.com/grisuno/Laderman) | 2 | 126 | 2 | 0 | 1 | 1 |
 | [keylogger](https://github.com/grisuno/keylogger) | 2 | 167 | 2 | 0 | 1 | 1 |
 | [hellbird](https://github.com/grisuno/hellbird) | 2 | 124 | 2 | 0 | 1 | 1 |
-| [Condorito-Framework](https://github.com/grisuno/Condorito-Framework) | 2 | 158 | 1 | 0 | 1 | 1 |
+| [Condorito-Framework](https://github.com/grisuno/Condorito-Framework) | 2 | 158 | 2 | 0 | 1 | 1 |
 | [binary](https://github.com/grisuno/binary) | 2 | 131 | 2 | 0 | 1 | 1 |
 | [Willmore](https://github.com/grisuno/Willmore) | 1 | 146 | 2 | 0 | 1 | 1 |
 | [TopoVJEPA](https://github.com/grisuno/TopoVJEPA) | 1 | 100 | 2 | 0 | 1 | 1 |
 | [text2videotutorial](https://github.com/grisuno/text2videotutorial) | 1 | 226 | 2 | 0 | 1 | 1 |
 | [shad0w](https://github.com/grisuno/shad0w) | 1 | 91 | 1 | 0 | 1 | 1 |
-| [ReadMenator](https://github.com/grisuno/ReadMenator) | 1 | 314 | 1 | 0 | 0 | 1 |
 | [ramanujan](https://github.com/grisuno/ramanujan) | 1 | 138 | 2 | 0 | 1 | 1 |
 | [PythonTutorial](https://github.com/grisuno/PythonTutorial) | 1 | 148 | 2 | 0 | 1 | 1 |
 | [peviwer](https://github.com/grisuno/peviwer) | 1 | 145 | 2 | 0 | 1 | 1 |
@@ -139,7 +139,7 @@
 | [cisnenegro](https://github.com/grisuno/cisnenegro) | 0 | 148 | 2 | 0 | 1 | 1 |
 | [cimatic](https://github.com/grisuno/cimatic) | 0 | 139 | 2 | 0 | 1 | 1 |
 | [BOFs](https://github.com/grisuno/BOFs) | 0 | 135 | 2 | 0 | 1 | 1 |
-| [blocknator](https://github.com/grisuno/blocknator) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [blocknator](https://github.com/grisuno/blocknator) | 0 | 0 | 1 | 0 | 1 | 1 |
 | [blockchain3](https://github.com/grisuno/blockchain3) | 0 | 209 | 2 | 0 | 1 | 1 |
 | [bin_micronucleus](https://github.com/grisuno/bin_micronucleus) | 0 | 140 | 2 | 0 | 1 | 1 |
 | [basilisco](https://github.com/grisuno/basilisco) | 0 | 148 | 2 | 0 | 1 | 1 |
