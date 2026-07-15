@@ -9,7 +9,7 @@
 | 🟢 Open Issues | 2 |
 | 📋 Total Issues | 50 |
 | 🛡 Dependabot Open Alerts | 0 |
-| 🔍 CodeScan Open Alerts | 2 |
+| 🔍 CodeScan Open Alerts | 4 |
 
 ## Issues
 - [#50](./issue_50.md) - RUN_STREAM_JOBS and DISCOVER_JOBS hold BufferedEventSink objects indefinitely — memory exhaustion via sustained job creation (closed)
@@ -64,6 +64,8 @@
 - [#1](./issue_1.md) - Unauthenticated /api/cases leaks the full historical investigation corpus (closed)
 
 ## Code Scanning Alerts
+- [CodeScan #40](./codescan/alert_40.md) - py/full-ssrf (error) - open
+- [CodeScan #39](./codescan/alert_39.md) - py/incomplete-url-substring-sanitization (warning) - open
 - [CodeScan #38](./codescan/alert_38.md) - js/xss-through-dom (warning) - open
 - [CodeScan #27](./codescan/alert_27.md) - py/url-redirection (error) - open
 

@@ -5,17 +5,15 @@
 | Metric | Value |
 |--------|-------|
 | ⭐ Stars | 17 |
-| 📥 Clones (last 14 days) | 1361 |
-| 🟢 Open Issues | 2 |
+| 📥 Clones (last 14 days) | 1400 |
+| 🟢 Open Issues | 1 |
 | 📋 Total Issues | 0 |
 | 🛡 Dependabot Open Alerts | 0 |
-| 🔍 CodeScan Open Alerts | 3 |
+| 🔍 CodeScan Open Alerts | 1 |
 
 ## Issues
 
 ## Code Scanning Alerts
-- [CodeScan #17](./codescan/alert_17.md) - cpp/overflowing-snprintf (warning) - open
-- [CodeScan #16](./codescan/alert_16.md) - cpp/overflowing-snprintf (warning) - open
 - [CodeScan #2](./codescan/alert_2.md) - cpp/integer-multiplication-cast-to-long (warning) - open
 
 Total issues downloaded: 0
