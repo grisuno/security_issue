@@ -4,11 +4,11 @@
 
 | Metric | Value |
 |--------|-------|
-| ⭐ Stars | 213 |
-| 📥 Clones (last 14 days) | 1917 |
+| ⭐ Stars | 214 |
+| 📥 Clones (last 14 days) | 1971 |
 | 🟢 Open Issues | 2 |
 | 📋 Total Issues | 5 |
-| 🛡 Dependabot Open Alerts | 0 |
+| 🛡 Dependabot Open Alerts | 1 |
 | 🔍 CodeScan Open Alerts | 0 |
 
 ## Issues
@@ -17,5 +17,8 @@
 - [#30](./issue_30.md) - Please remove ngrok as a tunneling option as this tool violates the terms of service (closed)
 - [#17](./issue_17.md) - Fix code scanning alert - Flask app is run in debug mode (closed)
 - [#16](./issue_16.md) - Fix code scanning alert - Information exposure through an exception (closed)
+
+## Dependabot Alerts
+- [Dependabot #50](./dependabot/alert_50.md) - torch (low) - open
 
 Total issues downloaded: 5
