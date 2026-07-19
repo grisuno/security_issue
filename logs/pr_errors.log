@@ -1,5 +1,0 @@
-malic	fail	clone falló
-ajedrez	fail	gh pr create falló	a pull request for branch "security-export" into branch "main" already exists:
-https://github.com/grisuno/ajedrez/pull/38
-grisiscomeback	fail	gh pr create falló	a pull request for branch "security-export" into branch "main" already exists:
-https://github.com/grisuno/grisiscomeback/pull/39
