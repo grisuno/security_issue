@@ -4,12 +4,13 @@
 
 | Metric | Value |
 |--------|-------|
-| ⭐ Stars | 214 |
-| 📥 Clones (last 14 days) | 2079 |
-| 🟢 Open Issues | 7 |
-| 📋 Total Issues | 5 |
-| 🛡 Dependabot Open Alerts | 1 |
-| 🔍 CodeScan Open Alerts | 0 |
+| ⭐ Stars | 216 |
+| 📥 Clones (last 14 days) | 2880 |
+| 🟢 Open Issues | 2 |
+| 📋 Total Issues | 3
+2 |
+| 🛡 Dependabot Open Alerts | 0 |
+| 🔍 CodeScan Open Alerts | 3 |
 
 ## Issues
 - [#165](./issue_165.md) - Docker failed build (closed)
@@ -18,7 +19,9 @@
 - [#17](./issue_17.md) - Fix code scanning alert - Flask app is run in debug mode (closed)
 - [#16](./issue_16.md) - Fix code scanning alert - Information exposure through an exception (closed)
 
-## Dependabot Alerts
-- [Dependabot #50](./dependabot/alert_50.md) - torch (low) - open
+## Code Scanning Alerts
+- [CodeScan #807](./codescan/alert_807.md) - py/clear-text-storage-sensitive-data (error) - open
+- [CodeScan #806](./codescan/alert_806.md) - py/clear-text-storage-sensitive-data (error) - open
+- [CodeScan #805](./codescan/alert_805.md) - py/clear-text-storage-sensitive-data (error) - open
 
 Total issues downloaded: 5
