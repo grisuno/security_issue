@@ -4,13 +4,13 @@
 
 | Metric | Value |
 |--------|-------|
-| ⭐ Stars | 216 |
-| 📥 Clones (last 14 days) | 2695 |
+| ⭐ Stars | 217 |
+| 📥 Clones (last 14 days) | 2512 |
 | 🟢 Open Issues | 2 |
 | 📋 Total Issues | 2
 3 |
 | 🛡 Dependabot Open Alerts | 0 |
-| 🔍 CodeScan Open Alerts | 15 |
+| 🔍 CodeScan Open Alerts | 10 |
 
 ## Issues
 - [#165](./issue_165.md) - Docker failed build (closed)
@@ -20,8 +20,6 @@
 - [#16](./issue_16.md) - Fix code scanning alert - Information exposure through an exception (closed)
 
 ## Code Scanning Alerts
-- [CodeScan #822](./codescan/alert_822.md) - py/clear-text-storage-sensitive-data (error) - open
-- [CodeScan #821](./codescan/alert_821.md) - py/clear-text-storage-sensitive-data (error) - open
 - [CodeScan #820](./codescan/alert_820.md) - py/bind-socket-all-network-interfaces (error) - open
 - [CodeScan #819](./codescan/alert_819.md) - py/incomplete-url-substring-sanitization (warning) - open
 - [CodeScan #818](./codescan/alert_818.md) - py/path-injection (error) - open
@@ -32,8 +30,5 @@
 - [CodeScan #813](./codescan/alert_813.md) - py/path-injection (error) - open
 - [CodeScan #812](./codescan/alert_812.md) - py/path-injection (error) - open
 - [CodeScan #811](./codescan/alert_811.md) - py/path-injection (error) - open
-- [CodeScan #810](./codescan/alert_810.md) - py/clear-text-logging-sensitive-data (error) - open
-- [CodeScan #809](./codescan/alert_809.md) - py/clear-text-logging-sensitive-data (error) - open
-- [CodeScan #808](./codescan/alert_808.md) - py/clear-text-logging-sensitive-data (error) - open
 
 Total issues downloaded: 5
