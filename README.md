@@ -2,19 +2,19 @@
 
 | Repository | ⭐ Stars | 📥 Clones (14d) | 🟢 Open Issues | 📋 Total Issues | 🛡 Dependabot Open | 🔍 CodeScan Open |
 |------------|---------|----------------|----------------|----------------|---------------------|-------------------|
-| [LazyOwn](https://github.com/grisuno/LazyOwn) | 217 | 2512 | 2 | 2
+| [LazyOwn](https://github.com/grisuno/LazyOwn) | 217 | 2768 | 2 | 2
 | [estorides](https://github.com/grisuno/estorides) | 91 | 216 | 3 | 50 | 0 | 8 |
 | [LazyOwnInfiniteStorage](https://github.com/grisuno/LazyOwnInfiniteStorage) | 30 | 65 | 2 | 2 | 0 | 0 |
 | [FreeDom](https://github.com/grisuno/FreeDom) | 17 | 599 | 2 | 0 | 0 | 3 |
 | [blacksandbeacon](https://github.com/grisuno/blacksandbeacon) | 14 | 59 | 2 | 0 | 1 | 1 |
 | [QC](https://github.com/grisuno/QC) | 13 | 29 | 3 | 1 | 1 | 1 |
 | [beacon](https://github.com/grisuno/beacon) | 13 | 53 | 2 | 0 | 1 | 1 |
-3 | 0 | 10 |
 | [BlackObsidianC2](https://github.com/grisuno/BlackObsidianC2) | 9 | 51 | 2 | 0 | 1 | 1 |
 | [ShadowLink](https://github.com/grisuno/ShadowLink) | 8 | 47 | 2 | 0 | 1 | 1 |
 | [LazyOwnBT](https://github.com/grisuno/LazyOwnBT) | 8 | 77 | 2 | 0 | 0 | 3 |
 | [HPU-Core](https://github.com/grisuno/HPU-Core) | 8 | 38 | 2 | 0 | 1 | 1 |
 | [amsi](https://github.com/grisuno/amsi) | 8 | 45 | 2 | 0 | 1 | 1 |
+3 | 0 | 7 |
 | [gomulti_loader](https://github.com/grisuno/gomulti_loader) | 7 | 46 | 2 | 0 | 1 | 1 |
 | [VSL-DSP](https://github.com/grisuno/VSL-DSP) | 6 | 42 | 2 | 1 | 1 | 1 |
 | [ReadMenator](https://github.com/grisuno/ReadMenator) | 6 | 114 | 3 | 0 | 0 | 1 |
