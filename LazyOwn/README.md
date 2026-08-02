@@ -20,12 +20,12 @@
 - [#16](./issue_16.md) - Fix code scanning alert - Information exposure through an exception (closed)
 
 ## Code Scanning Alerts
-- [CodeScan #830](./codescan/alert_830.md) - py/bind-socket-all-network-interfaces (error) - open
-- [CodeScan #829](./codescan/alert_829.md) - py/path-injection (error) - open
-- [CodeScan #828](./codescan/alert_828.md) - py/path-injection (error) - open
-- [CodeScan #817](./codescan/alert_817.md) - py/path-injection (error) - open
-- [CodeScan #813](./codescan/alert_813.md) - py/path-injection (error) - open
-- [CodeScan #812](./codescan/alert_812.md) - py/path-injection (error) - open
-- [CodeScan #811](./codescan/alert_811.md) - py/path-injection (error) - open
+- [CodeScan #842](./codescan/alert_842.md) - py/overly-large-range (warning) - open
+- [CodeScan #841](./codescan/alert_841.md) - py/overly-large-range (warning) - open
+- [CodeScan #840](./codescan/alert_840.md) - py/overly-large-range (warning) - open
+- [CodeScan #839](./codescan/alert_839.md) - py/overly-large-range (warning) - open
+- [CodeScan #838](./codescan/alert_838.md) - py/overly-large-range (warning) - open
+- [CodeScan #837](./codescan/alert_837.md) - py/overly-large-range (warning) - open
+- [CodeScan #836](./codescan/alert_836.md) - py/overly-large-range (warning) - open
 
 Total issues downloaded: 5
