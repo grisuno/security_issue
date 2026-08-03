@@ -3,18 +3,18 @@
 | Repository | ⭐ Stars | 📥 Clones (14d) | 🟢 Open Issues | 📋 Total Issues | 🛡 Dependabot Open | 🔍 CodeScan Open |
 |------------|---------|----------------|----------------|----------------|---------------------|-------------------|
 | [LazyOwn](https://github.com/grisuno/LazyOwn) | 217 | 2768 | 2 | 2
-| [estorides](https://github.com/grisuno/estorides) | 91 | 216 | 3 | 50 | 0 | 8 |
+| [estorides](https://github.com/grisuno/estorides) | 91 | 216 | 3 | 49
 | [LazyOwnInfiniteStorage](https://github.com/grisuno/LazyOwnInfiniteStorage) | 30 | 65 | 2 | 2 | 0 | 0 |
 | [FreeDom](https://github.com/grisuno/FreeDom) | 17 | 599 | 2 | 0 | 0 | 3 |
 | [blacksandbeacon](https://github.com/grisuno/blacksandbeacon) | 14 | 59 | 2 | 0 | 1 | 1 |
-| [QC](https://github.com/grisuno/QC) | 13 | 29 | 3 | 1 | 1 | 1 |
+| [QC](https://github.com/grisuno/QC) | 13 | 31 | 3 | 1 | 1 | 1 |
 | [beacon](https://github.com/grisuno/beacon) | 13 | 53 | 2 | 0 | 1 | 1 |
-| [BlackObsidianC2](https://github.com/grisuno/BlackObsidianC2) | 9 | 48 | 2 | 0 | 1 | 1 |
+| [BlackObsidianC2](https://github.com/grisuno/BlackObsidianC2) | 9 | 45 | 2 | 0 | 1 | 1 |
+1 | 0 | 8 |
 | [ShadowLink](https://github.com/grisuno/ShadowLink) | 8 | 47 | 2 | 0 | 1 | 1 |
 | [LazyOwnBT](https://github.com/grisuno/LazyOwnBT) | 8 | 77 | 2 | 0 | 0 | 3 |
 | [HPU-Core](https://github.com/grisuno/HPU-Core) | 8 | 38 | 2 | 0 | 1 | 1 |
 | [amsi](https://github.com/grisuno/amsi) | 8 | 41 | 2 | 0 | 1 | 1 |
-3 | 0 | 7 |
 | [gomulti_loader](https://github.com/grisuno/gomulti_loader) | 7 | 49 | 2 | 0 | 1 | 1 |
 | [VSL-DSP](https://github.com/grisuno/VSL-DSP) | 6 | 42 | 2 | 1 | 1 | 1 |
 | [ReadMenator](https://github.com/grisuno/ReadMenator) | 6 | 114 | 3 | 0 | 0 | 1 |
@@ -25,7 +25,7 @@
 | [schrodinger](https://github.com/grisuno/schrodinger) | 4 | 30 | 2 | 0 | 1 | 1 |
 | [netsh_helper_dll](https://github.com/grisuno/netsh_helper_dll) | 4 | 41 | 2 | 0 | 1 | 1 |
 | [cgoblin](https://github.com/grisuno/cgoblin) | 4 | 41 | 2 | 0 | 1 | 1 |
-| [BlackSerpentine](https://github.com/grisuno/BlackSerpentine) | 4 | 43 | 2 | 0 | 1 | 1 |
+| [BlackSerpentine](https://github.com/grisuno/BlackSerpentine) | 4 | 46 | 2 | 0 | 1 | 1 |
 | [algebra-de-grok](https://github.com/grisuno/algebra-de-grok) | 4 | 39 | 2 | 0 | 1 | 1 |
 | [win_shellcode](https://github.com/grisuno/win_shellcode) | 3 | 38 | 2 | 0 | 1 | 1 |
 | [The-QSN-and-Its-Mapping-to-E8](https://github.com/grisuno/The-QSN-and-Its-Mapping-to-E8) | 3 | 40 | 2 | 0 | 1 | 1 |
@@ -67,7 +67,7 @@
 | [Lazymapd](https://github.com/grisuno/Lazymapd) | 1 | 44 | 2 | 0 | 0 | 1 |
 | [kepler_orbit_grokker](https://github.com/grisuno/kepler_orbit_grokker) | 1 | 47 | 2 | 0 | 1 | 1 |
 | [HzHeal](https://github.com/grisuno/HzHeal) | 1 | 42 | 2 | 0 | 1 | 1 |
-| [feigenbaum](https://github.com/grisuno/feigenbaum) | 1 | 55 | 2 | 0 | 1 | 1 |
+| [feigenbaum](https://github.com/grisuno/feigenbaum) | 1 | 58 | 2 | 0 | 1 | 1 |
 | [fakeftp](https://github.com/grisuno/fakeftp) | 1 | 45 | 2 | 0 | 1 | 1 |
 | [embeddings](https://github.com/grisuno/embeddings) | 1 | 45 | 2 | 0 | 1 | 1 |
 | [ElOjoDeRicci](https://github.com/grisuno/ElOjoDeRicci) | 1 | 37 | 2 | 0 | 1 | 1 |
@@ -75,6 +75,7 @@
 | [chaotic_pendulum_grokked](https://github.com/grisuno/chaotic_pendulum_grokked) | 1 | 38 | 2 | 0 | 1 | 1 |
 | [BlackZincBeacon](https://github.com/grisuno/BlackZincBeacon) | 1 | 39 | 2 | 0 | 1 | 1 |
 | [1d_wave_equation_grokker](https://github.com/grisuno/1d_wave_equation_grokker) | 1 | 41 | 2 | 0 | 1 | 1 |
+3 | 0 | 0 |
 | [wp-postit](https://github.com/grisuno/wp-postit) | 0 | 9 | 2 | 0 | 0 | 1 |
 | [words_bad_spelled](https://github.com/grisuno/words_bad_spelled) | 0 | 46 | 2 | 0 | 1 | 1 |
 | [winsdk-10](https://github.com/grisuno/winsdk-10) | 0 | 27 | 1 | 0 | 1 | 1 |
@@ -91,7 +92,7 @@
 | [shadow](https://github.com/grisuno/shadow) | 0 | 142 | 2 | 0 | 1 | 1 |
 | [rust_tcp_ip](https://github.com/grisuno/rust_tcp_ip) | 0 | 51 | 2 | 0 | 1 | 1 |
 | [rustrev](https://github.com/grisuno/rustrev) | 0 | 9 | 2 | 0 | 1 | 1 |
-| [rurlz](https://github.com/grisuno/rurlz) | 0 | 10 | 2 | 0 | 1 | 1 |
+| [rurlz](https://github.com/grisuno/rurlz) | 0 | 11 | 2 | 0 | 1 | 1 |
 | [reelify](https://github.com/grisuno/reelify) | 0 | 36 | 2 | 0 | 1 | 1 |
 | [quantum](https://github.com/grisuno/quantum) | 0 | 38 | 2 | 0 | 1 | 1 |
 | [pytbackdoorch](https://github.com/grisuno/pytbackdoorch) | 0 | 43 | 2 | 0 | 1 | 1 |
@@ -104,19 +105,19 @@
 | [phantom2](https://github.com/grisuno/phantom2) | 0 | 61 | 2 | 0 | 1 | 1 |
 | [pascal2php](https://github.com/grisuno/pascal2php) | 0 | 32 | 2 | 0 | 1 | 1 |
 | [packet_edit_meme](https://github.com/grisuno/packet_edit_meme) | 0 | 49 | 2 | 0 | 1 | 1 |
-| [neuromario](https://github.com/grisuno/neuromario) | 0 | 46 | 2 | 0 | 1 | 1 |
+| [neuromario](https://github.com/grisuno/neuromario) | 0 | 45 | 2 | 0 | 1 | 1 |
 | [neurologos](https://github.com/grisuno/neurologos) | 0 | 43 | 2 | 0 | 1 | 1 |
 | [moonshine](https://github.com/grisuno/moonshine) | 0 | 27 | 2 | 0 | 1 | 1 |
 | [mist.htb](https://github.com/grisuno/mist.htb) | 0 | 43 | 2 | 0 | 1 | 1 |
 | [maxwell](https://github.com/grisuno/maxwell) | 0 | 25 | 2 | 0 | 1 | 1 |
 | [math-science-video-lectures](https://github.com/grisuno/math-science-video-lectures) | 0 | 40 | 2 | 0 | 1 | 1 |
 | [linux](https://github.com/grisuno/linux) | 0 | 14 | 1 | 0 | 1 | 1 |
-| [lietome](https://github.com/grisuno/lietome) | 0 | 41 | 2 | 0 | 1 | 1 |
+| [lietome](https://github.com/grisuno/lietome) | 0 | 46 | 2 | 0 | 1 | 1 |
 | [LazyOwnWeb](https://github.com/grisuno/LazyOwnWeb) | 0 | 44 | 2 | 0 | 1 | 1 |
 | [LazyOwnBrpFuzzerWeb](https://github.com/grisuno/LazyOwnBrpFuzzerWeb) | 0 | 49 | 2 | 0 | 1 | 1 |
-| [LazyC](https://github.com/grisuno/LazyC) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [LazyC](https://github.com/grisuno/LazyC) | 0 | 0 | 1 | 0 | 1 | 1 |
 | [LazyBspWM](https://github.com/grisuno/LazyBspWM) | 0 | 52 | 2 | 0 | 1 | 1 |
-| [ip_to_txt](https://github.com/grisuno/ip_to_txt) | 0 | 42 | 2 | 0 | 1 | 1 |
+| [ip_to_txt](https://github.com/grisuno/ip_to_txt) | 0 | 41 | 2 | 0 | 1 | 1 |
 | [inbound-api](https://github.com/grisuno/inbound-api) | 0 | 10 | 2 | 0 | 1 | 1 |
 | [hypergeometric](https://github.com/grisuno/hypergeometric) | 0 | 45 | 2 | 0 | 1 | 1 |
 | [HunyuanVideo-1.5](https://github.com/grisuno/HunyuanVideo-1.5) | 0 | 31 | 2 | 0 | 1 | 1 |
@@ -130,7 +131,7 @@
 | [geoneo](https://github.com/grisuno/geoneo) | 0 | 47 | 2 | 0 | 1 | 1 |
 | [gconnect](https://github.com/grisuno/gconnect) | 0 | 39 | 2 | 0 | 1 | 1 |
 | [flickr8k_prepared_sintetic_audio](https://github.com/grisuno/flickr8k_prepared_sintetic_audio) | 0 | 38 | 2 | 0 | 1 | 1 |
-| [fakesystemD](https://github.com/grisuno/fakesystemD) | 0 | 66 | 2 | 0 | 1 | 1 |
+| [fakesystemD](https://github.com/grisuno/fakesystemD) | 0 | 72 | 2 | 0 | 1 | 1 |
 | [expresscrud](https://github.com/grisuno/expresscrud) | 0 | 50 | 2 | 0 | 1 | 1 |
 | [exploitarium](https://github.com/grisuno/exploitarium) | 0 | 41 | 2 | 0 | 1 | 1 |
 | [Estimacion-de-fases-cuanticas](https://github.com/grisuno/Estimacion-de-fases-cuanticas) | 0 | 48 | 2 | 0 | 1 | 1 |
@@ -139,12 +140,12 @@
 | [deploynator](https://github.com/grisuno/deploynator) | 0 | 44 | 2 | 0 | 1 | 1 |
 | [deeptrue](https://github.com/grisuno/deeptrue) | 0 | 40 | 2 | 0 | 1 | 1 |
 | [cymatic](https://github.com/grisuno/cymatic) | 0 | 50 | 2 | 0 | 1 | 1 |
-| [cvm](https://github.com/grisuno/cvm) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [cvm](https://github.com/grisuno/cvm) | 0 | 0 | 1 | 0 | 1 | 1 |
 | [curlfree](https://github.com/grisuno/curlfree) | 0 | 51 | 2 | 0 | 1 | 1 |
 | [create_tree](https://github.com/grisuno/create_tree) | 0 | 39 | 2 | 0 | 1 | 1 |
 | [copy-fail-CVE-2026-31431](https://github.com/grisuno/copy-fail-CVE-2026-31431) | 0 | 61 | 2 | 0 | 1 | 1 |
 | [CompressLoader](https://github.com/grisuno/CompressLoader) | 0 | 9 | 2 | 0 | 1 | 1 |
-| [cisnenegro](https://github.com/grisuno/cisnenegro) | 0 | 35 | 2 | 0 | 1 | 1 |
+| [cisnenegro](https://github.com/grisuno/cisnenegro) | 0 | 38 | 2 | 0 | 1 | 1 |
 | [cimatic](https://github.com/grisuno/cimatic) | 0 | 42 | 2 | 0 | 1 | 1 |
 | [BOFs](https://github.com/grisuno/BOFs) | 0 | 40 | 2 | 0 | 1 | 1 |
 | [blocknator](https://github.com/grisuno/blocknator) | 0 | 41 | 2 | 0 | 1 | 1 |
@@ -152,7 +153,7 @@
 | [bin_micronucleus](https://github.com/grisuno/bin_micronucleus) | 0 | 37 | 2 | 0 | 1 | 1 |
 | [basilisco](https://github.com/grisuno/basilisco) | 0 | 49 | 2 | 0 | 1 | 1 |
 | [backdoros](https://github.com/grisuno/backdoros) | 0 | 38 | 2 | 0 | 1 | 1 |
-| [axlle.htb](https://github.com/grisuno/axlle.htb) | 0 | 44 | 2 | 0 | 1 | 1 |
+| [axlle.htb](https://github.com/grisuno/axlle.htb) | 0 | 46 | 2 | 0 | 1 | 1 |
 | [anasniffdeep](https://github.com/grisuno/anasniffdeep) | 0 | 57 | 1 | 0 | 1 | 1 |
 | [ajedrez](https://github.com/grisuno/ajedrez) | 0 | 39 | 2 | 0 | 1 | 1 |
 | [adonay](https://github.com/grisuno/adonay) | 0 | 41 | 2 | 0 | 1 | 1 |

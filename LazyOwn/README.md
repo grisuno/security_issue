@@ -10,7 +10,7 @@
 | 📋 Total Issues | 2
 3 |
 | 🛡 Dependabot Open Alerts | 0 |
-| 🔍 CodeScan Open Alerts | 7 |
+| 🔍 CodeScan Open Alerts | 0 |
 
 ## Issues
 - [#165](./issue_165.md) - Docker failed build (closed)
@@ -18,14 +18,5 @@
 - [#30](./issue_30.md) - Please remove ngrok as a tunneling option as this tool violates the terms of service (closed)
 - [#17](./issue_17.md) - Fix code scanning alert - Flask app is run in debug mode (closed)
 - [#16](./issue_16.md) - Fix code scanning alert - Information exposure through an exception (closed)
-
-## Code Scanning Alerts
-- [CodeScan #842](./codescan/alert_842.md) - py/overly-large-range (warning) - open
-- [CodeScan #841](./codescan/alert_841.md) - py/overly-large-range (warning) - open
-- [CodeScan #840](./codescan/alert_840.md) - py/overly-large-range (warning) - open
-- [CodeScan #839](./codescan/alert_839.md) - py/overly-large-range (warning) - open
-- [CodeScan #838](./codescan/alert_838.md) - py/overly-large-range (warning) - open
-- [CodeScan #837](./codescan/alert_837.md) - py/overly-large-range (warning) - open
-- [CodeScan #836](./codescan/alert_836.md) - py/overly-large-range (warning) - open
 
 Total issues downloaded: 5
