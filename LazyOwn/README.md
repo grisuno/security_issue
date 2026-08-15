@@ -4,13 +4,13 @@
 
 | Metric | Value |
 |--------|-------|
-| ⭐ Stars | 217 |
-| 📥 Clones (last 14 days) | 4066 |
+| ⭐ Stars | 218 |
+| 📥 Clones (last 14 days) | 4276 |
 | 🟢 Open Issues | 2 |
 | 📋 Total Issues | 2
 3 |
-| 🛡 Dependabot Open Alerts | 2 |
-| 🔍 CodeScan Open Alerts | 8 |
+| 🛡 Dependabot Open Alerts | 0 |
+| 🔍 CodeScan Open Alerts | 4 |
 
 ## Issues
 - [#165](./issue_165.md) - Docker failed build (closed)
@@ -19,18 +19,10 @@
 - [#17](./issue_17.md) - Fix code scanning alert - Flask app is run in debug mode (closed)
 - [#16](./issue_16.md) - Fix code scanning alert - Information exposure through an exception (closed)
 
-## Dependabot Alerts
-- [Dependabot #69](./dependabot/alert_69.md) - pypdf (medium) - open
-- [Dependabot #68](./dependabot/alert_68.md) - pypdf (medium) - open
-
 ## Code Scanning Alerts
-- [CodeScan #856](./codescan/alert_856.md) - py/clear-text-storage-sensitive-data (error) - open
-- [CodeScan #855](./codescan/alert_855.md) - py/clear-text-storage-sensitive-data (error) - open
-- [CodeScan #854](./codescan/alert_854.md) - py/clear-text-storage-sensitive-data (error) - open
-- [CodeScan #853](./codescan/alert_853.md) - py/weak-cryptographic-algorithm (warning) - open
-- [CodeScan #852](./codescan/alert_852.md) - py/weak-cryptographic-algorithm (warning) - open
+- [CodeScan #859](./codescan/alert_859.md) - py/cookie-injection (warning) - open
+- [CodeScan #858](./codescan/alert_858.md) - py/stack-trace-exposure (error) - open
+- [CodeScan #857](./codescan/alert_857.md) - py/stack-trace-exposure (error) - open
 - [CodeScan #851](./codescan/alert_851.md) - py/insecure-protocol (warning) - open
-- [CodeScan #850](./codescan/alert_850.md) - py/weak-sensitive-data-hashing (warning) - open
-- [CodeScan #849](./codescan/alert_849.md) - py/weak-sensitive-data-hashing (warning) - open
 
 Total issues downloaded: 5
