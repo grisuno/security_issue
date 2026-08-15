@@ -3,14 +3,14 @@
 | Repository | ⭐ Stars | 📥 Clones (14d) | 🟢 Open Issues | 📋 Total Issues | 🛡 Dependabot Open | 🔍 CodeScan Open |
 |------------|---------|----------------|----------------|----------------|---------------------|-------------------|
 | [LazyOwn](https://github.com/grisuno/LazyOwn) | 218 | 4276 | 2 | 2
-| [estorides](https://github.com/grisuno/estorides) | 92 | 142 | 3 | 47
+| [estorides](https://github.com/grisuno/estorides) | 92 | 142 | 3 | 46
 | [LazyOwnInfiniteStorage](https://github.com/grisuno/LazyOwnInfiniteStorage) | 30 | 44 | 2 | 2 | 0 | 0 |
 | [FreeDom](https://github.com/grisuno/FreeDom) | 17 | 266 | 2 | 0 | 0 | 4 |
 | [blacksandbeacon](https://github.com/grisuno/blacksandbeacon) | 15 | 56 | 2 | 0 | 1 | 1 |
 | [QC](https://github.com/grisuno/QC) | 13 | 25 | 3 | 1 | 1 | 1 |
 | [beacon](https://github.com/grisuno/beacon) | 13 | 31 | 2 | 0 | 1 | 1 |
 | [BlackObsidianC2](https://github.com/grisuno/BlackObsidianC2) | 9 | 19 | 2 | 0 | 1 | 1 |
-3 | 0 | 8 |
+4 | 0 | 8 |
 | [ShadowLink](https://github.com/grisuno/ShadowLink) | 8 | 31 | 2 | 0 | 1 | 1 |
 | [LazyOwnBT](https://github.com/grisuno/LazyOwnBT) | 8 | 38 | 2 | 0 | 0 | 3 |
 | [HPU-Core](https://github.com/grisuno/HPU-Core) | 8 | 23 | 2 | 0 | 1 | 1 |
@@ -109,17 +109,17 @@
 | [neurologos](https://github.com/grisuno/neurologos) | 0 | 22 | 2 | 0 | 1 | 1 |
 | [moonshine](https://github.com/grisuno/moonshine) | 0 | 12 | 2 | 0 | 1 | 1 |
 | [mist.htb](https://github.com/grisuno/mist.htb) | 0 | 27 | 2 | 0 | 1 | 1 |
-| [miniOS](https://github.com/grisuno/miniOS) | 0 | 57 | 0 | 0 | 1 | 1 |
+| [miniOS](https://github.com/grisuno/miniOS) | 0 | 57 | 1 | 0 | 1 | 1 |
 | [maxwell](https://github.com/grisuno/maxwell) | 0 | 20 | 2 | 0 | 1 | 1 |
 | [math-science-video-lectures](https://github.com/grisuno/math-science-video-lectures) | 0 | 20 | 2 | 0 | 1 | 1 |
 | [linux](https://github.com/grisuno/linux) | 0 | 11 | 1 | 0 | 1 | 1 |
 | [lietome](https://github.com/grisuno/lietome) | 0 | 29 | 2 | 0 | 1 | 1 |
-| [ld](https://github.com/grisuno/ld) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [ld](https://github.com/grisuno/ld) | 0 | 0 | 1 | 0 | 1 | 1 |
 | [LazyOwnWeb](https://github.com/grisuno/LazyOwnWeb) | 0 | 21 | 2 | 0 | 1 | 1 |
 | [LazyOwnBrpFuzzerWeb](https://github.com/grisuno/LazyOwnBrpFuzzerWeb) | 0 | 27 | 2 | 0 | 1 | 1 |
 | [LazyC](https://github.com/grisuno/LazyC) | 0 | 16 | 1 | 0 | 1 | 1 |
 | [LazyBspWM](https://github.com/grisuno/LazyBspWM) | 0 | 27 | 2 | 0 | 1 | 1 |
-| [ip_to_txt](https://github.com/grisuno/ip_to_txt) | 0 | 18 | 1 | 0 | 1 | 1 |
+| [ip_to_txt](https://github.com/grisuno/ip_to_txt) | 0 | 18 | 2 | 0 | 1 | 1 |
 | [inbound-api](https://github.com/grisuno/inbound-api) | 0 | 5 | 2 | 0 | 1 | 1 |
 | [hypergeometric](https://github.com/grisuno/hypergeometric) | 0 | 27 | 2 | 0 | 1 | 1 |
 | [HunyuanVideo-1.5](https://github.com/grisuno/HunyuanVideo-1.5) | 0 | 22 | 2 | 0 | 1 | 1 |
@@ -138,7 +138,7 @@
 | [exploitarium](https://github.com/grisuno/exploitarium) | 0 | 26 | 2 | 0 | 1 | 1 |
 | [Estimacion-de-fases-cuanticas](https://github.com/grisuno/Estimacion-de-fases-cuanticas) | 0 | 31 | 2 | 0 | 1 | 1 |
 | [eStickFix](https://github.com/grisuno/eStickFix) | 0 | 26 | 2 | 0 | 1 | 1 |
-| [energia_eolica](https://github.com/grisuno/energia_eolica) | 0 | 26 | 0 | 0 | 1 | 1 |
+| [energia_eolica](https://github.com/grisuno/energia_eolica) | 0 | 26 | 1 | 0 | 1 | 1 |
 | [DualMind](https://github.com/grisuno/DualMind) | 0 | 31 | 2 | 0 | 1 | 1 |
 | [deploynator](https://github.com/grisuno/deploynator) | 0 | 20 | 2 | 0 | 1 | 1 |
 | [deeptrue](https://github.com/grisuno/deeptrue) | 0 | 19 | 2 | 0 | 1 | 1 |
