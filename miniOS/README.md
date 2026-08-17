@@ -1,11 +1,11 @@
 # Repository: miniOS
 
-**Description:** a mini os just for fun
+**Description:** MiniOS: A 64-bit teaching Operating System featuring a self-hosted C toolchain and a custom bytecode Virtual Machine (CVM). Write C code, compile it into portable bytecode, and execute it safely in a sandboxed VM directly inside the OS.
 
 | Metric | Value |
 |--------|-------|
-| ⭐ Stars | 0 |
-| 📥 Clones (last 14 days) | 57 |
+| ⭐ Stars | 1 |
+| 📥 Clones (last 14 days) | 99 |
 | 🟢 Open Issues | 1 |
 | 📋 Total Issues | 0 |
 | 🛡 Dependabot Open Alerts | 1 |
