@@ -4,13 +4,13 @@
 
 | Metric | Value |
 |--------|-------|
-| ⭐ Stars | 218 |
+| ⭐ Stars | 219 |
 | 📥 Clones (last 14 days) | 3832 |
-| 🟢 Open Issues | 2 |
+| 🟢 Open Issues | 0 |
 | 📋 Total Issues | 1
 4 |
 | 🛡 Dependabot Open Alerts | 0 |
-| 🔍 CodeScan Open Alerts | 4 |
+| 🔍 CodeScan Open Alerts | 8 |
 
 ## Issues
 - [#165](./issue_165.md) - Docker failed build (closed)
@@ -20,6 +20,10 @@
 - [#16](./issue_16.md) - Fix code scanning alert - Information exposure through an exception (closed)
 
 ## Code Scanning Alerts
+- [CodeScan #864](./codescan/alert_864.md) - py/clear-text-logging-sensitive-data (error) - open
+- [CodeScan #863](./codescan/alert_863.md) - py/clear-text-storage-sensitive-data (error) - open
+- [CodeScan #862](./codescan/alert_862.md) - py/clear-text-logging-sensitive-data (error) - open
+- [CodeScan #861](./codescan/alert_861.md) - py/clear-text-logging-sensitive-data (error) - open
 - [CodeScan #859](./codescan/alert_859.md) - py/cookie-injection (warning) - open
 - [CodeScan #858](./codescan/alert_858.md) - py/stack-trace-exposure (error) - open
 - [CodeScan #857](./codescan/alert_857.md) - py/stack-trace-exposure (error) - open
