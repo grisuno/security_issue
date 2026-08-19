@@ -3,20 +3,20 @@
 | Repository | ⭐ Stars | 📥 Clones (14d) | 🟢 Open Issues | 📋 Total Issues | 🛡 Dependabot Open | 🔍 CodeScan Open |
 |------------|---------|----------------|----------------|----------------|---------------------|-------------------|
 | [LazyOwn](https://github.com/grisuno/LazyOwn) | 219 | 3537 | 1 | 1
-| [estorides](https://github.com/grisuno/estorides) | 92 | 149 | 3 | 43
+| [estorides](https://github.com/grisuno/estorides) | 92 | 149 | 3 | 42
 | [LazyOwnInfiniteStorage](https://github.com/grisuno/LazyOwnInfiniteStorage) | 30 | 31 | 2 | 2 | 0 | 0 |
 | [FreeDom](https://github.com/grisuno/FreeDom) | 17 | 202 | 2 | 0 | 0 | 5 |
 | [blacksandbeacon](https://github.com/grisuno/blacksandbeacon) | 15 | 49 | 2 | 0 | 1 | 1 |
 | [QC](https://github.com/grisuno/QC) | 13 | 21 | 3 | 1 | 1 | 1 |
 | [beacon](https://github.com/grisuno/beacon) | 13 | 24 | 2 | 0 | 1 | 1 |
 | [BlackObsidianC2](https://github.com/grisuno/BlackObsidianC2) | 9 | 17 | 2 | 0 | 1 | 1 |
-7 | 0 | 8 |
+8 | 0 | 8 |
 4 | 0 | 8 |
 | [ShadowLink](https://github.com/grisuno/ShadowLink) | 8 | 26 | 2 | 0 | 1 | 1 |
+| [ReadMenator](https://github.com/grisuno/ReadMenator) | 8 | 84 | 1 | 0 | 0 | 1 |
 | [LazyOwnBT](https://github.com/grisuno/LazyOwnBT) | 8 | 29 | 2 | 0 | 0 | 3 |
 | [HPU-Core](https://github.com/grisuno/HPU-Core) | 8 | 10 | 2 | 0 | 1 | 1 |
 | [amsi](https://github.com/grisuno/amsi) | 8 | 14 | 2 | 0 | 1 | 1 |
-| [ReadMenator](https://github.com/grisuno/ReadMenator) | 7 | 84 | 1 | 0 | 0 | 1 |
 | [gomulti_loader](https://github.com/grisuno/gomulti_loader) | 7 | 19 | 2 | 0 | 1 | 1 |
 | [VSL-DSP](https://github.com/grisuno/VSL-DSP) | 6 | 39 | 2 | 1 | 1 | 1 |
 | [QuantumVault](https://github.com/grisuno/QuantumVault) | 5 | 44 | 2 | 0 | 1 | 1 |
@@ -68,7 +68,7 @@
 | [lazyweb](https://github.com/grisuno/lazyweb) | 1 | 17 | 2 | 0 | 1 | 1 |
 | [Lazymapd](https://github.com/grisuno/Lazymapd) | 1 | 17 | 2 | 0 | 0 | 1 |
 | [kepler_orbit_grokker](https://github.com/grisuno/kepler_orbit_grokker) | 1 | 13 | 2 | 0 | 1 | 1 |
-| [HzHeal](https://github.com/grisuno/HzHeal) | 1 | 18 | 2 | 0 | 1 | 1 |
+| [HzHeal](https://github.com/grisuno/HzHeal) | 1 | 18 | 2 | 0 | 0 | 1 |
 | [feigenbaum](https://github.com/grisuno/feigenbaum) | 1 | 20 | 2 | 0 | 1 | 1 |
 | [fakeftp](https://github.com/grisuno/fakeftp) | 1 | 23 | 2 | 0 | 1 | 1 |
 | [embeddings](https://github.com/grisuno/embeddings) | 1 | 24 | 2 | 0 | 1 | 1 |
