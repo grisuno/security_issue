@@ -4,13 +4,13 @@
 
 | Metric | Value |
 |--------|-------|
-| ⭐ Stars | 93 |
-| 📥 Clones (last 14 days) | 194 |
-| 🟢 Open Issues | 3 |
-| 📋 Total Issues | 39
-11 |
+| ⭐ Stars | 94 |
+| 📥 Clones (last 14 days) | 228 |
+| 🟢 Open Issues | 2 |
+| 📋 Total Issues | 37
+13 |
 | 🛡 Dependabot Open Alerts | 0 |
-| 🔍 CodeScan Open Alerts | 8 |
+| 🔍 CodeScan Open Alerts | 5 |
 
 ## Issues
 - [#50](./issue_50.md) - RUN_STREAM_JOBS and DISCOVER_JOBS hold BufferedEventSink objects indefinitely — memory exhaustion via sustained job creation (closed)
@@ -65,13 +65,10 @@
 - [#1](./issue_1.md) - Unauthenticated /api/cases leaks the full historical investigation corpus (closed)
 
 ## Code Scanning Alerts
-- [CodeScan #45](./codescan/alert_45.md) - py/incomplete-url-substring-sanitization (warning) - open
-- [CodeScan #44](./codescan/alert_44.md) - py/incomplete-url-substring-sanitization (warning) - open
-- [CodeScan #43](./codescan/alert_43.md) - py/incomplete-url-substring-sanitization (warning) - open
-- [CodeScan #42](./codescan/alert_42.md) - py/incomplete-url-substring-sanitization (warning) - open
-- [CodeScan #41](./codescan/alert_41.md) - py/incomplete-url-substring-sanitization (warning) - open
-- [CodeScan #40](./codescan/alert_40.md) - py/full-ssrf (error) - open
+- [CodeScan #49](./codescan/alert_49.md) - py/path-injection (error) - open
+- [CodeScan #48](./codescan/alert_48.md) - py/path-injection (error) - open
+- [CodeScan #47](./codescan/alert_47.md) - py/full-ssrf (error) - open
+- [CodeScan #46](./codescan/alert_46.md) - py/incomplete-url-substring-sanitization (warning) - open
 - [CodeScan #38](./codescan/alert_38.md) - js/xss-through-dom (warning) - open
-- [CodeScan #27](./codescan/alert_27.md) - py/url-redirection (error) - open
 
 Total issues downloaded: 50
