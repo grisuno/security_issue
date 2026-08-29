@@ -4,13 +4,13 @@
 
 | Metric | Value |
 |--------|-------|
-| ⭐ Stars | 220 |
+| ⭐ Stars | 221 |
 | 📥 Clones (last 14 days) | 4497 |
 | 🟢 Open Issues | 2 |
 | 📋 Total Issues | 1
 4 |
 | 🛡 Dependabot Open Alerts | 0 |
-| 🔍 CodeScan Open Alerts | 10 |
+| 🔍 CodeScan Open Alerts | 11 |
 
 ## Issues
 - [#165](./issue_165.md) - Docker failed build (closed)
@@ -20,7 +20,8 @@
 - [#16](./issue_16.md) - Fix code scanning alert - Information exposure through an exception (closed)
 
 ## Code Scanning Alerts
-- [CodeScan #866](./codescan/alert_866.md) - py/clear-text-logging-sensitive-data (error) - open
+- [CodeScan #895](./codescan/alert_895.md) - py/weak-cryptographic-algorithm (warning) - open
+- [CodeScan #867](./codescan/alert_867.md) - py/weak-sensitive-data-hashing (warning) - open
 - [CodeScan #865](./codescan/alert_865.md) - py/clear-text-storage-sensitive-data (error) - open
 - [CodeScan #864](./codescan/alert_864.md) - py/clear-text-logging-sensitive-data (error) - open
 - [CodeScan #863](./codescan/alert_863.md) - py/clear-text-storage-sensitive-data (error) - open
