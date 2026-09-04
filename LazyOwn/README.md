@@ -4,13 +4,13 @@
 
 | Metric | Value |
 |--------|-------|
-| ⭐ Stars | 221 |
-| 📥 Clones (last 14 days) | 4497 |
-| 🟢 Open Issues | 2 |
-| 📋 Total Issues | 1
+| Stars | 224 |
+| Clones (last 14 days) | 2038 |
+| Open Issues | 2 |
+| Total Issues | 1
 4 |
-| 🛡 Dependabot Open Alerts | 0 |
-| 🔍 CodeScan Open Alerts | 11 |
+| Dependabot Open Alerts | 0 |
+| CodeScan Open Alerts | 0 |
 
 ## Issues
 - [#165](./issue_165.md) - Docker failed build (closed)
@@ -18,18 +18,5 @@
 - [#30](./issue_30.md) - Please remove ngrok as a tunneling option as this tool violates the terms of service (closed)
 - [#17](./issue_17.md) - Fix code scanning alert - Flask app is run in debug mode (closed)
 - [#16](./issue_16.md) - Fix code scanning alert - Information exposure through an exception (closed)
-
-## Code Scanning Alerts
-- [CodeScan #895](./codescan/alert_895.md) - py/weak-cryptographic-algorithm (warning) - open
-- [CodeScan #867](./codescan/alert_867.md) - py/weak-sensitive-data-hashing (warning) - open
-- [CodeScan #865](./codescan/alert_865.md) - py/clear-text-storage-sensitive-data (error) - open
-- [CodeScan #864](./codescan/alert_864.md) - py/clear-text-logging-sensitive-data (error) - open
-- [CodeScan #863](./codescan/alert_863.md) - py/clear-text-storage-sensitive-data (error) - open
-- [CodeScan #862](./codescan/alert_862.md) - py/clear-text-logging-sensitive-data (error) - open
-- [CodeScan #861](./codescan/alert_861.md) - py/clear-text-logging-sensitive-data (error) - open
-- [CodeScan #859](./codescan/alert_859.md) - py/cookie-injection (warning) - open
-- [CodeScan #858](./codescan/alert_858.md) - py/stack-trace-exposure (error) - open
-- [CodeScan #857](./codescan/alert_857.md) - py/stack-trace-exposure (error) - open
-- [CodeScan #851](./codescan/alert_851.md) - py/insecure-protocol (warning) - open
 
 Total issues downloaded: 5

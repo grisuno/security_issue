@@ -4,12 +4,12 @@
 
 | Metric | Value |
 |--------|-------|
-| ⭐ Stars | 5 |
-| 📥 Clones (last 14 days) | 55 |
-| 🟢 Open Issues | 3 |
-| 📋 Total Issues | 1 |
-| 🛡 Dependabot Open Alerts | 1 |
-| 🔍 CodeScan Open Alerts | 1 |
+| Stars | 5 |
+| Clones (last 14 days) | 39 |
+| Open Issues | 3 |
+| Total Issues | 1 |
+| Dependabot Open Alerts | 1 |
+| CodeScan Open Alerts | 1 |
 
 ## Issues
 - [#1](./issue_1.md) - How was created the payload? (open)

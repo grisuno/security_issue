@@ -4,12 +4,12 @@
 
 | Metric | Value |
 |--------|-------|
-| ⭐ Stars | 6 |
-| 📥 Clones (last 14 days) | 49 |
-| 🟢 Open Issues | 2 |
-| 📋 Total Issues | 1 |
-| 🛡 Dependabot Open Alerts | 1 |
-| 🔍 CodeScan Open Alerts | 1 |
+| Stars | 6 |
+| Clones (last 14 days) | 42 |
+| Open Issues | 2 |
+| Total Issues | 1 |
+| Dependabot Open Alerts | 1 |
+| CodeScan Open Alerts | 1 |
 
 ## Issues
 - [#1](./issue_1.md) - Could this handle other PreSonus interfaces? (closed)

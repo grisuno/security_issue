@@ -4,13 +4,13 @@
 
 | Metric | Value |
 |--------|-------|
-| ⭐ Stars | 95 |
-| 📥 Clones (last 14 days) | 220 |
-| 🟢 Open Issues | 2 |
-| 📋 Total Issues | 35
-15 |
-| 🛡 Dependabot Open Alerts | 0 |
-| 🔍 CodeScan Open Alerts | 5 |
+| Stars | 96 |
+| Clones (last 14 days) | 163 |
+| Open Issues | 2 |
+| Total Issues | 34
+16 |
+| Dependabot Open Alerts | 0 |
+| CodeScan Open Alerts | 5 |
 
 ## Issues
 - [#50](./issue_50.md) - RUN_STREAM_JOBS and DISCOVER_JOBS hold BufferedEventSink objects indefinitely — memory exhaustion via sustained job creation (closed)

@@ -4,12 +4,12 @@
 
 | Metric | Value |
 |--------|-------|
-| ⭐ Stars | 3 |
-| 📥 Clones (last 14 days) | 54 |
-| 🟢 Open Issues | 2 |
-| 📋 Total Issues | 2 |
-| 🛡 Dependabot Open Alerts | 0 |
-| 🔍 CodeScan Open Alerts | 0 |
+| Stars | 3 |
+| Clones (last 14 days) | 46 |
+| Open Issues | 2 |
+| Total Issues | 2 |
+| Dependabot Open Alerts | 0 |
+| CodeScan Open Alerts | 0 |
 
 ## Issues
 - [#3](./issue_3.md) - Fix code scanning alert - URL redirection from remote source (closed)

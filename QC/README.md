@@ -4,12 +4,12 @@
 
 | Metric | Value |
 |--------|-------|
-| ⭐ Stars | 13 |
-| 📥 Clones (last 14 days) | 50 |
-| 🟢 Open Issues | 3 |
-| 📋 Total Issues | 1 |
-| 🛡 Dependabot Open Alerts | 1 |
-| 🔍 CodeScan Open Alerts | 1 |
+| Stars | 13 |
+| Clones (last 14 days) | 45 |
+| Open Issues | 3 |
+| Total Issues | 1 |
+| Dependabot Open Alerts | 1 |
+| CodeScan Open Alerts | 1 |
 
 ## Issues
 - [#1](./issue_1.md) - Playground material (open)
