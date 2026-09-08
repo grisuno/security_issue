@@ -1,161 +1,160 @@
-[PROTECT] X miniOS/main: PUT protection HTTP 000
-[PROTECT] + LazyOwn/main already protected
 [PROTECT] + FreeDom/main already protected
-[PROTECT] X cvm/main: PUT protection HTTP 000
-[PROTECT] + estorides/main already protected
-[PROTECT] X lazyaddon/main: PUT protection HTTP 000
-[PROTECT] X Lazymapd/main: PUT protection HTTP 000
-[PROTECT] X deploynator/main: PUT protection HTTP 000
-[PROTECT] X QC/main: PUT protection HTTP 000
-[PROTECT] X resma/main: PUT protection HTTP 000
-[PROTECT] X maxwell/main: PUT protection HTTP 000
-[PROTECT] X grisuno/main: PUT protection HTTP 000
-[PROTECT] X geoneo/main: PUT protection HTTP 000
-[PROTECT] X deeptrue/main: PUT protection HTTP 000
-[PROTECT] X eStickFix/main: PUT protection HTTP 000
-[PROTECT] X hypergeometric/main: PUT protection HTTP 000
-[PROTECT] X backdoros/master: PUT protection HTTP 000
-[PROTECT] X pyKerbrute/master: PUT protection HTTP 000
-[PROTECT] X rustrev/main: PUT protection HTTP 000
-[PROTECT] X create_tree/main: PUT protection HTTP 000
-[PROTECT] X HzHeal/main: PUT protection HTTP 000
-[PROTECT] X AbsoluteZero/main: PUT protection HTTP 000
-[PROTECT] X lazyweb/main: PUT protection HTTP 000
-[PROTECT] X embeddings/main: PUT protection HTTP 000
-[PROTECT] X wp-postit/master: PUT protection HTTP 000
-[PROTECT] X amsi/main: PUT protection HTTP 000
-[PROTECT] X ejecutarShellcode/main: PUT protection HTTP 000
-[PROTECT] X OverRide/main: PUT protection HTTP 000
-[PROTECT] X The-QSN-and-Its-Mapping-to-E8/main: PUT protection HTTP 000
-[PROTECT] X win_shellcode/main: PUT protection HTTP 000
-[PROTECT] X ip_to_txt/main: PUT protection HTTP 000
-[PROTECT] X ebird3/main: PUT protection HTTP 000
-[PROTECT] + ShadowLink/main already protected
-[PROTECT] X cgoblin/main: PUT protection HTTP 000
-[PROTECT] X gomulti_loader/main: PUT protection HTTP 000
-[PROTECT] X hellbird/main: PUT protection HTTP 000
-[PROTECT] X binary/main: PUT protection HTTP 000
-[PROTECT] X text2videotutorial/main: PUT protection HTTP 000
-[PROTECT] X netsh_helper_dll/main: PUT protection HTTP 000
-[PROTECT] X peviwer/main: PUT protection HTTP 000
-[PROTECT] X beacon/main: PUT protection HTTP 000
-[PROTECT] X ShellcodeFluctuation_crosscompile/main: PUT protection HTTP 000
-[PROTECT] + CVE-2022-22077/main already protected
-[PROTECT] X BlackSerpentine/main: PUT protection HTTP 000
-[PROTECT] + gopher2/main already protected
-[PROTECT] + BlackObsidianC2/main already protected
-[PROTECT] X BlackZincBeacon/main: PUT protection HTTP 000
-[PROTECT] + malic/main already protected
-[PROTECT] X probofs/main: PUT protection HTTP 000
-[PROTECT] X liber-monitor/main: PUT protection HTTP 000
-[PROTECT] X DualMind/main: PUT protection HTTP 000
-[PROTECT] X sinthesys/main: PUT protection HTTP 000
-[PROTECT] X TopoBrain/main: PUT protection HTTP 000
-[PROTECT] X pokemon/main: PUT protection HTTP 000
-[PROTECT] X flickr8k_prepared_sintetic_audio/main: PUT protection HTTP 000
-[PROTECT] X neurologos/main: PUT protection HTTP 000
-[PROTECT] X neuromario/main: PUT protection HTTP 000
-[PROTECT] X ElOjoDeRicci/main: PUT protection HTTP 000
-[PROTECT] + lie-detector/main already protected
-[PROTECT] X cisnenegro/main: PUT protection HTTP 000
-[PROTECT] + SWAN-Phoenix-Rising/main already protected
-[PROTECT] X 1d_wave_equation_grokker/main: PUT protection HTTP 000
-[PROTECT] X kepler_orbit_grokker/main: PUT protection HTTP 000
-[PROTECT] X chaotic_pendulum_grokked/main: PUT protection HTTP 000
-[PROTECT] X supertopo3/main: PUT protection HTTP 000
-[PROTECT] X agi/main: PUT protection HTTP 000
-[PROTECT] X matrixgrokker/main: PUT protection HTTP 000
-[PROTECT] X algebra-de-grok/main: PUT protection HTTP 000
-[PROTECT] + HPU-Core/main already protected
-[PROTECT] X fakesystemD/main: PUT protection HTTP 000
-[PROTECT] X phantom2/main: PUT protection HTTP 000
-[PROTECT] X shadow/main: PUT protection HTTP 000
-[PROTECT] X blocknator/main: PUT protection HTTP 000
-[PROTECT] X moonshine/main: PUT protection HTTP 000
-[PROTECT] X exploitarium/main: PUT protection HTTP 000
-[PROTECT] X LazyOwnInfiniteStorage/main: PUT protection HTTP 000
-[PROTECT] X fakeftp/main: PUT protection HTTP 000
-[PROTECT] X rust_tcp_ip/main: PUT protection HTTP 000
-[PROTECT] X grisiscomeback/main: PUT protection HTTP 000
-[PROTECT] X blockchain3/main: PUT protection HTTP 000
-[PROTECT] X adn/main: PUT protection HTTP 000
-[PROTECT] X vst/main: PUT protection HTTP 000
-[PROTECT] X sndtone/main: PUT protection HTTP 000
-[PROTECT] X vstsndtone/main: PUT protection HTTP 000
-[PROTECT] X cimatic/main: PUT protection HTTP 000
-[PROTECT] X expresscrud/main: PUT protection HTTP 000
-[PROTECT] X words_bad_spelled/main: PUT protection HTTP 000
-[PROTECT] X quantum/main: PUT protection HTTP 000
-[PROTECT] X pascal2php/main: PUT protection HTTP 000
-[PROTECT] X inbound-api/main: PUT protection HTTP 000
-[PROTECT] X gts/master: PUT protection HTTP 000
-[PROTECT] X GpsTracker/master: PUT protection HTTP 000
-[PROTECT] X pytbackdoorch/main: PUT protection HTTP 000
-[PROTECT] X ramanujan/main: PUT protection HTTP 000
-[PROTECT] X feigenbaum/main: PUT protection HTTP 000
-[PROTECT] X pycrud/main: PUT protection HTTP 000
-[PROTECT] X lietome/main: PUT protection HTTP 000
-[PROTECT] X Estimacion-de-fases-cuanticas/main: PUT protection HTTP 000
-[PROTECT] X ttyoverhttp/master: PUT protection HTTP 000
-[PROTECT] X basilisco/main: PUT protection HTTP 000
-[PROTECT] X adonay/main: PUT protection HTTP 000
-[PROTECT] X rurlz/main: PUT protection HTTP 000
-[PROTECT] X LazyBspWM/main: PUT protection HTTP 000
-[PROTECT] X gconnect/main: PUT protection HTTP 000
-[PROTECT] X LazyOwnWeb/main: PUT protection HTTP 000
-[PROTECT] X ajedrez/main: PUT protection HTTP 000
-[PROTECT] X PythonTutorial/main: PUT protection HTTP 000
-[PROTECT] X LazyOwnEncoderDecoder/main: PUT protection HTTP 000
-[PROTECT] X ScriptAnimator/main: PUT protection HTTP 000
-[PROTECT] X cymatic/main: PUT protection HTTP 000
-[PROTECT] X LazyOwnBrpFuzzerWeb/main: PUT protection HTTP 000
-[PROTECT] X tunneling/main: PUT protection HTTP 000
-[PROTECT] X ghost.htb/main: PUT protection HTTP 000
-[PROTECT] X mist.htb/main: PUT protection HTTP 000
-[PROTECT] X axlle.htb/main: PUT protection HTTP 000
-[PROTECT] X reelify/main: PUT protection HTTP 000
-[PROTECT] X bin_micronucleus/main: PUT protection HTTP 000
-[PROTECT] X png2bash/main: PUT protection HTTP 000
-[PROTECT] X packet_edit_meme/main: PUT protection HTTP 000
-[PROTECT] X Condorito-Framework/main: PUT protection HTTP 000
-[PROTECT] X HavocC2-Custom-Profile-Template/main: PUT protection HTTP 000
-[PROTECT] X Havoc/main: PUT protection HTTP 000
-[PROTECT] X vulns-2026-fatfs-chance/main: PUT protection HTTP 000
-[PROTECT] X curlfree/main: PUT protection HTTP 000
-[PROTECT] X BOFs/main: PUT protection HTTP 000
-[PROTECT] X nikola_tesla_patentes/main: PUT protection HTTP 000
-[PROTECT] X keylogger/main: PUT protection HTTP 000
-[PROTECT] + QuantumVault/main already protected
-[PROTECT] X project-nomad/main: PUT protection HTTP 000
-[PROTECT] X math-science-video-lectures/master: PUT protection HTTP 000
-[PROTECT] X toposwarm/main: PUT protection HTTP 000
-[PROTECT] X HunyuanVideo-1.5/main: PUT protection HTTP 000
-[PROTECT] X LazyOwnOpenCodeAdapter/main: PUT protection HTTP 000
-[PROTECT] X copy-fail-CVE-2026-31431/main: PUT protection HTTP 000
-[PROTECT] X TopoGPT2/main: PUT protection HTTP 000
-[PROTECT] X systemd/main: PUT protection HTTP 000
-[PROTECT] X Willmore/main: PUT protection HTTP 000
-[PROTECT] X Laderman/main: PUT protection HTTP 000
-[PROTECT] + dirac/main already protected
-[PROTECT] X Neurothermo/main: PUT protection HTTP 000
-[PROTECT] X schrodinger/main: PUT protection HTTP 000
-[PROTECT] X CompressLoader/main: PUT protection HTTP 000
-[PROTECT] X TopoVJEPA/main: PUT protection HTTP 000
-[PROTECT] + VSL-DSP/main already protected
-[PROTECT] X miniGCC/main: PUT protection HTTP 000
-[PROTECT] X ld/main: PUT protection HTTP 000
-[PROTECT] X template/main: PUT protection HTTP 000
-[PROTECT] X energia_eolica/main: PUT protection HTTP 000
-[PROTECT] X TopoExploit/main: PUT protection HTTP 000
-[PROTECT] + strass_strassen/main already protected
-[PROTECT] X admin/main: PUT protection HTTP 000
-[PROTECT] X shad0w/main: PUT protection HTTP 000
-[PROTECT] X anasniffdeep/main: PUT protection HTTP 000
-[PROTECT] X winsdk-10/master: PUT protection HTTP 000
-[PROTECT] X linux/master: PUT protection HTTP 000
-[PROTECT] + TopoGPT3/main already protected
-[PROTECT] X LazyC/main: PUT protection HTTP 000
-[PROTECT] X LazyOwnBT/main: PUT protection HTTP 000
-[PROTECT] X LazyLoader/main: PUT protection HTTP 000
 [PROTECT] + blacksandbeacon/main already protected
+[PROTECT] X LazyLoader/main: PUT protection HTTP 000
+[PROTECT] X LazyOwnBT/main: PUT protection HTTP 000
+[PROTECT] X LazyC/main: PUT protection HTTP 000
+[PROTECT] + TopoGPT3/main already protected
+[PROTECT] + LazyOwn/main already protected
 [PROTECT] + ReadMenator/main already protected
+[PROTECT] X miniOS/main: PUT protection HTTP 000
+[PROTECT] X winsdk-10/master: PUT protection HTTP 000
+[PROTECT] X anasniffdeep/main: PUT protection HTTP 000
+[PROTECT] X shad0w/main: PUT protection HTTP 000
+[PROTECT] X admin/main: PUT protection HTTP 000
+[PROTECT] + strass_strassen/main already protected
+[PROTECT] X TopoExploit/main: PUT protection HTTP 000
+[PROTECT] X energia_eolica/main: PUT protection HTTP 000
+[PROTECT] X template/main: PUT protection HTTP 000
+[PROTECT] X ld/main: PUT protection HTTP 000
+[PROTECT] X miniGCC/main: PUT protection HTTP 000
+[PROTECT] + VSL-DSP/main already protected
+[PROTECT] X TopoVJEPA/main: PUT protection HTTP 000
+[PROTECT] X CompressLoader/main: PUT protection HTTP 000
+[PROTECT] X schrodinger/main: PUT protection HTTP 000
+[PROTECT] X Neurothermo/main: PUT protection HTTP 000
+[PROTECT] + dirac/main already protected
+[PROTECT] X Laderman/main: PUT protection HTTP 000
+[PROTECT] X Willmore/main: PUT protection HTTP 000
+[PROTECT] X systemd/main: PUT protection HTTP 000
+[PROTECT] X TopoGPT2/main: PUT protection HTTP 000
+[PROTECT] X copy-fail-CVE-2026-31431/main: PUT protection HTTP 000
+[PROTECT] X LazyOwnOpenCodeAdapter/main: PUT protection HTTP 000
+[PROTECT] X HunyuanVideo-1.5/main: PUT protection HTTP 000
+[PROTECT] X toposwarm/main: PUT protection HTTP 000
+[PROTECT] X math-science-video-lectures/master: PUT protection HTTP 000
+[PROTECT] X project-nomad/main: PUT protection HTTP 000
+[PROTECT] + QuantumVault/main already protected
+[PROTECT] X keylogger/main: PUT protection HTTP 000
+[PROTECT] X nikola_tesla_patentes/main: PUT protection HTTP 000
+[PROTECT] X BOFs/main: PUT protection HTTP 000
+[PROTECT] X curlfree/main: PUT protection HTTP 000
+[PROTECT] X vulns-2026-fatfs-chance/main: PUT protection HTTP 000
+[PROTECT] X Havoc/main: PUT protection HTTP 000
+[PROTECT] X HavocC2-Custom-Profile-Template/main: PUT protection HTTP 000
+[PROTECT] X Condorito-Framework/main: PUT protection HTTP 000
+[PROTECT] X packet_edit_meme/main: PUT protection HTTP 000
+[PROTECT] X png2bash/main: PUT protection HTTP 000
+[PROTECT] X bin_micronucleus/main: PUT protection HTTP 000
+[PROTECT] X reelify/main: PUT protection HTTP 000
+[PROTECT] X axlle.htb/main: PUT protection HTTP 000
+[PROTECT] X mist.htb/main: PUT protection HTTP 000
+[PROTECT] X ghost.htb/main: PUT protection HTTP 000
+[PROTECT] X tunneling/main: PUT protection HTTP 000
+[PROTECT] X LazyOwnBrpFuzzerWeb/main: PUT protection HTTP 000
+[PROTECT] X cymatic/main: PUT protection HTTP 000
+[PROTECT] X ScriptAnimator/main: PUT protection HTTP 000
+[PROTECT] X LazyOwnEncoderDecoder/main: PUT protection HTTP 000
+[PROTECT] X PythonTutorial/main: PUT protection HTTP 000
+[PROTECT] X ajedrez/main: PUT protection HTTP 000
+[PROTECT] X LazyOwnWeb/main: PUT protection HTTP 000
+[PROTECT] X gconnect/main: PUT protection HTTP 000
+[PROTECT] X LazyBspWM/main: PUT protection HTTP 000
+[PROTECT] X rurlz/main: PUT protection HTTP 000
+[PROTECT] X adonay/main: PUT protection HTTP 000
+[PROTECT] X basilisco/main: PUT protection HTTP 000
+[PROTECT] X ttyoverhttp/master: PUT protection HTTP 000
+[PROTECT] X Estimacion-de-fases-cuanticas/main: PUT protection HTTP 000
+[PROTECT] X lietome/main: PUT protection HTTP 000
+[PROTECT] X pycrud/main: PUT protection HTTP 000
+[PROTECT] X feigenbaum/main: PUT protection HTTP 000
+[PROTECT] X ramanujan/main: PUT protection HTTP 000
+[PROTECT] X pytbackdoorch/main: PUT protection HTTP 000
+[PROTECT] X GpsTracker/master: PUT protection HTTP 000
+[PROTECT] X gts/master: PUT protection HTTP 000
+[PROTECT] X inbound-api/main: PUT protection HTTP 000
+[PROTECT] X pascal2php/main: PUT protection HTTP 000
+[PROTECT] X quantum/main: PUT protection HTTP 000
+[PROTECT] X words_bad_spelled/main: PUT protection HTTP 000
+[PROTECT] X expresscrud/main: PUT protection HTTP 000
+[PROTECT] X cimatic/main: PUT protection HTTP 000
+[PROTECT] X vstsndtone/main: PUT protection HTTP 000
+[PROTECT] X sndtone/main: PUT protection HTTP 000
+[PROTECT] X vst/main: PUT protection HTTP 000
+[PROTECT] X adn/main: PUT protection HTTP 000
+[PROTECT] X blockchain3/main: PUT protection HTTP 000
+[PROTECT] X grisiscomeback/main: PUT protection HTTP 000
+[PROTECT] X rust_tcp_ip/main: PUT protection HTTP 000
+[PROTECT] X fakeftp/main: PUT protection HTTP 000
+[PROTECT] X LazyOwnInfiniteStorage/main: PUT protection HTTP 000
+[PROTECT] X exploitarium/main: PUT protection HTTP 000
+[PROTECT] X moonshine/main: PUT protection HTTP 000
+[PROTECT] X blocknator/main: PUT protection HTTP 000
+[PROTECT] X shadow/main: PUT protection HTTP 000
+[PROTECT] X phantom2/main: PUT protection HTTP 000
+[PROTECT] X fakesystemD/main: PUT protection HTTP 000
+[PROTECT] + HPU-Core/main already protected
+[PROTECT] X algebra-de-grok/main: PUT protection HTTP 000
+[PROTECT] X matrixgrokker/main: PUT protection HTTP 000
+[PROTECT] X agi/main: PUT protection HTTP 000
+[PROTECT] X supertopo3/main: PUT protection HTTP 000
+[PROTECT] X chaotic_pendulum_grokked/main: PUT protection HTTP 000
+[PROTECT] X kepler_orbit_grokker/main: PUT protection HTTP 000
+[PROTECT] X 1d_wave_equation_grokker/main: PUT protection HTTP 000
+[PROTECT] + SWAN-Phoenix-Rising/main already protected
+[PROTECT] X cisnenegro/main: PUT protection HTTP 000
+[PROTECT] + lie-detector/main already protected
+[PROTECT] X ElOjoDeRicci/main: PUT protection HTTP 000
+[PROTECT] X neuromario/main: PUT protection HTTP 000
+[PROTECT] X neurologos/main: PUT protection HTTP 000
+[PROTECT] X flickr8k_prepared_sintetic_audio/main: PUT protection HTTP 000
+[PROTECT] X pokemon/main: PUT protection HTTP 000
+[PROTECT] X TopoBrain/main: PUT protection HTTP 000
+[PROTECT] X sinthesys/main: PUT protection HTTP 000
+[PROTECT] X DualMind/main: PUT protection HTTP 000
+[PROTECT] X liber-monitor/main: PUT protection HTTP 000
+[PROTECT] X probofs/main: PUT protection HTTP 000
+[PROTECT] + malic/main already protected
+[PROTECT] X BlackZincBeacon/main: PUT protection HTTP 000
+[PROTECT] + BlackObsidianC2/main already protected
+[PROTECT] + gopher2/main already protected
+[PROTECT] X BlackSerpentine/main: PUT protection HTTP 000
+[PROTECT] + CVE-2022-22077/main already protected
+[PROTECT] X ShellcodeFluctuation_crosscompile/main: PUT protection HTTP 000
+[PROTECT] X beacon/main: PUT protection HTTP 000
+[PROTECT] X peviwer/main: PUT protection HTTP 000
+[PROTECT] X netsh_helper_dll/main: PUT protection HTTP 000
+[PROTECT] X text2videotutorial/main: PUT protection HTTP 000
+[PROTECT] X binary/main: PUT protection HTTP 000
+[PROTECT] X hellbird/main: PUT protection HTTP 000
+[PROTECT] X gomulti_loader/main: PUT protection HTTP 000
+[PROTECT] X cgoblin/main: PUT protection HTTP 000
+[PROTECT] + ShadowLink/main already protected
+[PROTECT] X ebird3/main: PUT protection HTTP 000
+[PROTECT] X ip_to_txt/main: PUT protection HTTP 000
+[PROTECT] X win_shellcode/main: PUT protection HTTP 000
+[PROTECT] X The-QSN-and-Its-Mapping-to-E8/main: PUT protection HTTP 000
+[PROTECT] X OverRide/main: PUT protection HTTP 000
+[PROTECT] X ejecutarShellcode/main: PUT protection HTTP 000
+[PROTECT] X amsi/main: PUT protection HTTP 000
+[PROTECT] X wp-postit/master: PUT protection HTTP 000
+[PROTECT] X embeddings/main: PUT protection HTTP 000
+[PROTECT] X lazyweb/main: PUT protection HTTP 000
+[PROTECT] X AbsoluteZero/main: PUT protection HTTP 000
+[PROTECT] X HzHeal/main: PUT protection HTTP 000
+[PROTECT] X create_tree/main: PUT protection HTTP 000
+[PROTECT] X rustrev/main: PUT protection HTTP 000
+[PROTECT] X pyKerbrute/master: PUT protection HTTP 000
+[PROTECT] X backdoros/master: PUT protection HTTP 000
+[PROTECT] X hypergeometric/main: PUT protection HTTP 000
+[PROTECT] X eStickFix/main: PUT protection HTTP 000
+[PROTECT] X deeptrue/main: PUT protection HTTP 000
+[PROTECT] X geoneo/main: PUT protection HTTP 000
+[PROTECT] X grisuno/main: PUT protection HTTP 000
+[PROTECT] X maxwell/main: PUT protection HTTP 000
+[PROTECT] X resma/main: PUT protection HTTP 000
+[PROTECT] X QC/main: PUT protection HTTP 000
+[PROTECT] X deploynator/main: PUT protection HTTP 000
+[PROTECT] X Lazymapd/main: PUT protection HTTP 000
+[PROTECT] X lazyaddon/main: PUT protection HTTP 000
+[PROTECT] + estorides/main already protected
+[PROTECT] X cvm/main: PUT protection HTTP 000
