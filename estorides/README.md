@@ -4,13 +4,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Stars | 96 |
-| Clones (last 14 days) | 146 |
+| Stars | 98 |
+| Clones (last 14 days) | 181 |
 | Open Issues | 2 |
-| Total Issues | 31
-19 |
+| Total Issues | 30
+20 |
 | Dependabot Open Alerts | 0 |
-| CodeScan Open Alerts | 5 |
+| CodeScan Open Alerts | 7 |
 
 ## Issues
 - [#50](./issue_50.md) - RUN_STREAM_JOBS and DISCOVER_JOBS hold BufferedEventSink objects indefinitely — memory exhaustion via sustained job creation (closed)
@@ -65,6 +65,8 @@
 - [#1](./issue_1.md) - Unauthenticated /api/cases leaks the full historical investigation corpus (closed)
 
 ## Code Scanning Alerts
+- [CodeScan #51](./codescan/alert_51.md) - py/incomplete-url-substring-sanitization (warning) - open
+- [CodeScan #50](./codescan/alert_50.md) - py/incomplete-url-substring-sanitization (warning) - open
 - [CodeScan #49](./codescan/alert_49.md) - py/path-injection (error) - open
 - [CodeScan #48](./codescan/alert_48.md) - py/path-injection (error) - open
 - [CodeScan #47](./codescan/alert_47.md) - py/full-ssrf (error) - open
