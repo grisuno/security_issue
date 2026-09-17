@@ -4,8 +4,8 @@
 
 | Metric | Value |
 |--------|-------|
-| Stars | 228 |
-| Clones (last 14 days) | 1523 |
+| Stars | 227 |
+| Clones (last 14 days) | 1595 |
 | Open Issues | 2 |
 | Total Issues | 0
 5 |
