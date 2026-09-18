@@ -5,12 +5,12 @@
 | Metric | Value |
 |--------|-------|
 | Stars | 227 |
-| Clones (last 14 days) | 1595 |
+| Clones (last 14 days) | 1707 |
 | Open Issues | 2 |
 | Total Issues | 0
 5 |
 | Dependabot Open Alerts | 0 |
-| CodeScan Open Alerts | 0 |
+| CodeScan Open Alerts | 1 |
 
 ## Issues
 - [#165](./issue_165.md) - Docker failed build (closed)
@@ -18,5 +18,8 @@
 - [#30](./issue_30.md) - Please remove ngrok as a tunneling option as this tool violates the terms of service (closed)
 - [#17](./issue_17.md) - Fix code scanning alert - Flask app is run in debug mode (closed)
 - [#16](./issue_16.md) - Fix code scanning alert - Information exposure through an exception (closed)
+
+## Code Scanning Alerts
+- [CodeScan #899](./codescan/alert_899.md) - actions/missing-workflow-permissions (warning) - open
 
 Total issues downloaded: 5

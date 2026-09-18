@@ -5,15 +5,16 @@
 | Metric | Value |
 |--------|-------|
 | Stars | 19 |
-| Clones (last 14 days) | 296 |
+| Clones (last 14 days) | 332 |
 | Open Issues | 2 |
 | Total Issues | 0 |
 | Dependabot Open Alerts | 0 |
-| CodeScan Open Alerts | 6 |
+| CodeScan Open Alerts | 7 |
 
 ## Issues
 
 ## Code Scanning Alerts
+- [CodeScan #26](./codescan/alert_26.md) - cpp/overflowing-snprintf (warning) - open
 - [CodeScan #25](./codescan/alert_25.md) - py/bad-tag-filter (warning) - open
 - [CodeScan #24](./codescan/alert_24.md) - py/bad-tag-filter (warning) - open
 - [CodeScan #21](./codescan/alert_21.md) - cpp/overflowing-snprintf (warning) - open
